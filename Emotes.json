@@ -1,0 +1,759 @@
+{"Point" : {
+	"DisplayName" : "point",
+	"Description" : "You",
+	"Rarity" : "Common"
+},
+"Starpower" : {
+	"DisplayName" : "star power",
+	"Description" : "100% original emote",
+	"Author" : "mypic1 music: TanielCoolGuy",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Stretch" : {
+	"DisplayName" : "stretch",
+	"Description" : "you gotta loosen up those motor6ds",
+	"Author" : "brobrothersforever",
+	"WalkSpeed" : 0,
+	"Rarity" : "Uncommon"
+},
+"Gangnam" : {
+	"DisplayName" : "gangnam",
+	"Description" : "style. Oh yeah",
+	"Author" : "Fr0stydias music: maplazalea",
+	"WalkSpeed" : 10,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"JustWannaRock" : {
+	"DisplayName" : "just wanna rock",
+	"Description" : "hi badhabits",
+	"Author" : "Fr0stydias music: jasper.creations",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"ArmBrush" : {
+	"DisplayName" : "arm brush",
+	"Description" : "lightwork no reaction",
+	"Author" : "Sleeby_Lamb",
+	"WalkSpeed" : 0,
+	"Rarity" : "Rare"
+},
+"FriedDogs" : {
+	"DisplayName" : "fried dogs",
+	"Description" : "these skeletons are now alive",
+	"Author" : "geocolada music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"Shy" : {
+	"DisplayName" : "shy",
+	"Description" : "im blushing rn",
+	"Author" : "Mechanical_Isopod",
+	"WalkSpeed" : 0,
+	"Rarity" : "Mythic"
+},
+"BuddyWasSick" : {
+	"DisplayName" : "buddy",
+	"Description" : "small gentleman was ill, completely thefted his assets",
+	"Author" : "1SyNet",
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Caramelldansen" : {
+	"DisplayName" : "caramel",
+	"Description" : "pronounced care-ah-mel",
+	"Author" : "pwnroast music: maplazalea",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Notepad" : {
+	"DisplayName" : "notepad",
+	"Description" : "win+r notepad",
+	"Author" : "sleeby_lamb",
+	"Rarity" : "Legendary"
+},
+"YoungThing" : {
+	"DisplayName" : "young thing",
+	"Description" : "P.Y.T.",
+	"Author" : "Fr0stydias music: TanielCoolGuy",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Pretending" : {
+	"DisplayName" : "pretending",
+	"Description" : "im just tryna get my paper straight",
+	"Author" : "Fr0stydias music: 1nicopatty",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Rare"
+},
+"TahRahRah" : {
+	"DisplayName" : "tah rah rah",
+	"Description" : "...or those women!",
+	"Author" : "daivians",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Honored" : {
+	"DisplayName" : "honored",
+	"Description" : "for i alone, am the honored one.",
+	"Author" : "demlightt music: maplazalea",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Overpowering" : {
+	"DisplayName" : "overpowering",
+	"Description" : "AAAAAAAAAAAAAAA",
+	"Author" : "brownbros616",
+	"WalkSpeed" : 12,
+	"Rarity" : "Outrageous"
+},
+"ReverentialBow" : {
+	"DisplayName" : "reverential bow",
+	"Description" : "m'lady",
+	"Author" : "TheNoobGarry",
+	"WalkSpeed" : 0,
+	"Rarity" : "Epic"
+},
+"PBJ" : {
+	"DisplayName" : "pbj time",
+	"Description" : "you'll never guess what time it is",
+	"Author" : "Fr0stydias/geocolada",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Brat" : {
+	"DisplayName" : "brat",
+	"Description" : "legacy is undebated",
+	"Author" : "SComics music: jasper.creations",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"Manrobics" : {
+	"DisplayName" : "manrobics",
+	"Description" : "get your muscles working!",
+	"Author" : "Fr0stydias music: jasper.creations",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"DragonPose" : {
+	"DisplayName" : "dragon pose",
+	"Description" : "prepare yourself",
+	"Author" : "brownbros616",
+	"Rarity" : "Uncommon"
+},
+"Adoring" : {
+	"DisplayName" : "adoring",
+	"Description" : "dont stare for too long",
+	"Author" : "Blazing",
+	"Rarity" : "Rare"
+},
+"Completion" : {
+	"DisplayName" : "completion",
+	"Description" : "i've seen this somewhere before...",
+	"Author" : "Fr0stydias music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"CaliforniaGurls" : {
+	"DisplayName" : "california",
+	"Description" : "we're unforgettable",
+	"Author" : "Fr0stydias music: jasper.creations",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"XaviersDance" : {
+	"DisplayName" : "xavier's dance",
+	"Description" : "he hittin' that fr",
+	"Author" : "Fr0stydias music: jasper.creations",
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"joeshuffle" : {
+	"DisplayName" : "joe shuffle",
+	"Description" : "who is joe and why is he shuffling",
+	"Author" : "eepyrilakuma music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Headlock" : {
+	"DisplayName" : "headlock",
+	"Description" : "don't choke",
+	"Author" : "Fr0stydias music: 1nicopatty",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Moonwalk" : {
+	"DisplayName" : "moonwalk",
+	"Description" : "maybe i AM the one",
+	"Author" : "Fr0stydias music: maplazalea",
+	"WalkSpeed" : 10,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Mesmerizer" : {
+	"DisplayName" : "mesmerizer",
+	"Description" : "so... mesmerizing... Its 2 AM",
+	"Author" : "CrafterRBLXGo music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"SuperStar" : {
+	"DisplayName" : "super star",
+	"Description" : "go, team, go!",
+	"Author" : "Brownbros616",
+	"Rarity" : "Epic"
+},
+"CoinFlip" : {
+	"DisplayName" : "coin flip",
+	"Description" : "feelin' lucky?",
+	"Author" : "wreckitrabbit",
+	"WalkSpeed" : 0,
+	"Rarity" : "Uncommon"
+},
+"ArmKicker" : {
+	"DisplayName" : "arm kicker",
+	"Description" : "laa lalalaaaa",
+	"Author" : "mypic1",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Rare"
+},
+"Newgens" : {
+	"DisplayName" : "Walk",
+	"Description" : "these newgens man...",
+	"Author" : "Sleeby_Lamb",
+	"WalkSpeed" : 6,
+	"Rarity" : "Transcendental"
+},
+"Sturdy" : {
+	"DisplayName" : "sturdy",
+	"Description" : "get sturdy wit it",
+	"Author" : "Fr0stydias music: jasper.creations",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Pikuniku" : {
+	"DisplayName" : "pikuniku",
+	"Description" : "ooo kill 'em",
+	"Author" : "geocolada music: jasper.creations",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"whoisyou" : {
+	"DisplayName" : "who is you",
+	"Description" : "oh? who is you?",
+	"Author" : "eepyrilakuma music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"YouGoodBro" : {
+	"DisplayName" : "you good bro?",
+	"Description" : "the voices the voices the voices",
+	"Author" : "Blazing",
+	"Rarity" : "Rare"
+},
+"Mystery" : {
+	"DisplayName" : "mystery",
+	"Description" : "hand swirlies not included",
+	"Author" : "Kitstops music: TanielCoolGuy",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Sleep" : {
+	"DisplayName" : "sleep",
+	"Description" : "honk shewa",
+	"Author" : "TheNoobGarry",
+	"Rarity" : "Epic"
+},
+"Disgraced" : {
+	"DisplayName" : "disgraced",
+	"Description" : "true strength lies not in physical prowess, but in the fear it instills.",
+	"Author" : "1SyNet music: maplazalea",
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"AprilFools_Spin" : {
+	"DisplayName" : "spin",
+	"Description" : "you spin me right round",
+	"Author" : "NotVeryOptimistic",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Transcendental"
+},
+"RAHH" : {
+	"DisplayName" : "RAHH",
+	"Description" : "RAHH",
+	"Author" : "pwnroast",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"RainCheck" : {
+	"DisplayName" : "rain check",
+	"Description" : "rain on me",
+	"Author" : "alone music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Poison" : {
+	"DisplayName" : "poison",
+	"Description" : "it's drivin' me out of my mind",
+	"Author" : "xXTheGamblerXx music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"bumpin" : {
+	"DisplayName" : "bumpin",
+	"Description" : "techno terminator",
+	"Author" : "Fr0stydias music: nicopatty",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"cabbage" : {
+	"DisplayName" : "cabbage patch",
+	"Description" : "am i doing it right?",
+	"Author" : "CrafterRBLXGo music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Rare"
+},
+"wonderwhere" : {
+	"DisplayName" : "wonder where i've been",
+	"Description" : "wonder wonder wonder",
+	"Author" : "eepyrilakuma music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"Smug" : {
+	"DisplayName" : "smug",
+	"Description" : "dancing 'till the break of dawn",
+	"Author" : "Fr0stydias music: maplazalea",
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Dance" : {
+	"DisplayName" : "dance",
+	"Description" : "/e dance :D",
+	"WalkSpeed" : 5,
+	"Rarity" : "Common"
+},
+"Clueless" : {
+	"DisplayName" : "clueless",
+	"Description" : "huh? what? im sorry huh? say whuh?! HUH? WHAT ARE YOU SAYING",
+	"Author" : "TheNoobGarry",
+	"Rarity" : "Common"
+},
+"Popipo" : {
+	"DisplayName" : "popipo",
+	"Description" : "EEEEEEEEE!!!!!!!",
+	"Author" : "TheNoobGarry music: maplazalea",
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Outlaw" : {
+	"DisplayName" : "outlaw",
+	"Description" : "reach for the stars",
+	"Author" : "alone music: maplazalea",
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Griddy" : {
+	"DisplayName" : "griddy",
+	"Description" : "chop chop",
+	"Author" : "NotVeryOptimistic music: nicopatty",
+	"WalkSpeed" : 1,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"Stride" : {
+	"DisplayName" : "stride",
+	"Description" : "c'mon! let's skip together!",
+	"Author" : "Infernus music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Bumblebee" : {
+	"DisplayName" : "bumblebee",
+	"Description" : "i know what u want from me :D",
+	"Author" : "Kitstops music: TanielCoolGuy",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"SpongeShuffle" : {
+	"DisplayName" : "sponge shuffle",
+	"Description" : "try not to trip",
+	"Author" : "mypic1",
+	"WalkSpeed" : 5,
+	"Rarity" : "Epic"
+},
+"KeepUp" : {
+	"DisplayName" : "keep up",
+	"Description" : "not too fast",
+	"Author" : "bopy_0 music: maplazalea",
+	"WalkSpeed" : 1,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"SmoothMoves" : {
+	"DisplayName" : "smooth moves",
+	"Description" : "make them swoon",
+	"Author" : "bopy_0 music: maplazalea",
+	"WalkSpeed" : 1,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"RatDance" : {
+	"DisplayName" : "rat dance",
+	"Description" : "how he doin' that??",
+	"Author" : "dariel music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"static" : {
+	"DisplayName" : "static",
+	"Description" : "woohoo yeahh i love melo!!",
+	"Author" : "Stevonthy music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"EngineerGaming" : {
+	"DisplayName" : "engineer gaming",
+	"Description" : "yeesh. get a load of this guy.",
+	"Author" : "xXTheGamblerXx music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"JumpUp" : {
+	"DisplayName" : "jump up",
+	"Description" : "not... much... jumping.............",
+	"Author" : "CrafterRBLXGo music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"SeriousMan" : {
+	"DisplayName" : "serious man",
+	"Description" : "sooooo sigma",
+	"Author" : "mpe0111212 music: 1nicopatty",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"Crackdown" : {
+	"DisplayName" : "crackdown",
+	"Description" : "weird.. i feel like this is supposed to sound different...",
+	"Author" : "Fr0stydias music: maplazalea",
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"AprilFools_67" : {
+	"DisplayName" : "67",
+	"Description" : "NAHHHHHHH 67 BOII THATS SO TUFF BOIIII 😂😂😂",
+	"Author" : "SGL_Mashikk",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Transcendental"
+},
+"PerpetualFever" : {
+	"DisplayName" : "perpetual fever",
+	"Description" : "im so dizzy please stop",
+	"Author" : "DemlightWasTaken",
+	"WalkSpeed" : 5,
+	"Rarity" : "Mythic"
+},
+"Assumptions" : {
+	"DisplayName" : "assumptions",
+	"Description" : "do you feel the same?",
+	"Author" : "alone music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"Boppin" : {
+	"DisplayName" : "boppin'",
+	"Description" : "this is a bop",
+	"Author" : "Fr0stydias music: jasper.creations",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Kickstand" : {
+	"DisplayName" : "kickstand",
+	"Description" : "im too see-through",
+	"Author" : "daivians music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Tanging" : {
+	"DisplayName" : "tanging",
+	"Description" : "ay ay ay",
+	"Author" : "daivians music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Groove" : {
+	"DisplayName" : "groove",
+	"Description" : "keep it movin' and groovin'.",
+	"Author" : "Fr0stydias",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"BeatIt" : {
+	"DisplayName" : "beat it",
+	"Description" : "just!",
+	"Author" : "daivians music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"FunMusic" : {
+	"DisplayName" : "fun music",
+	"Description" : "im too see-through",
+	"Author" : "Sleeby_Lamb music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "TBA"
+},
+"Thriller" : {
+	"DisplayName" : "thrilling",
+	"Description" : "cause it's the... WHAT?!",
+	"Author" : "Fr0stydias music: TanielCoolGuy",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Cheer" : {
+	"DisplayName" : "cheer",
+	"Description" : "victory screech!!!",
+	"Rarity" : "Common"
+},
+"Bhop" : {
+	"DisplayName" : "bhop",
+	"Description" : "admin he doing it sideways",
+	"Author" : "Fr0stydias music: maplazalea",
+	"WalkSpeed" : 24,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Dance2013" : {
+	"DisplayName" : "2013",
+	"Description" : "born in the iron cafe",
+	"Author" : "maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Rare"
+},
+"BackOn" : {
+	"DisplayName" : "back on",
+	"Description" : "hi ors :D",
+	"Author" : "DemlightWasTaken music: maplazalea",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"AlreadyDead" : {
+	"DisplayName" : "already dead",
+	"Description" : "sure glad this meme is already dead!",
+	"Author" : "Fr0stydias music: maplazalea",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"Eggrolled" : {
+	"DisplayName" : "eggrolled",
+	"Description" : "it come with it (has 2 animations!)",
+	"Author" : "ninjacoola12",
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Pooled" : {
+	"DisplayName" : "pooled",
+	"Description" : "just another player in your game",
+	"Author" : "Fr0stydias music: maplazalea",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"JustKnow" : {
+	"DisplayName" : "just know",
+	"Description" : "i jus know it",
+	"Author" : "1SyNet music: jasper.creations",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"Penguin" : {
+	"DisplayName" : "penguin",
+	"Description" : "in the penguin club. straight up \"penguin it\". and by \"it\", haha, well. let's just say.   My puffles",
+	"Author" : "Fr0stydias music: TanielCoolGuy",
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"PartyCrasher" : {
+	"DisplayName" : "party crasher",
+	"Description" : "round ended 2 hours ago and they're still here",
+	"Author" : "SComics music: jasper.creations",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Schadenfredue" : {
+	"DisplayName" : "schadenfredue",
+	"Description" : "noun | pleasure derived by someone from another person's misfortune.",
+	"Author" : "Fr0stydias",
+	"WalkSpeed" : 0,
+	"Rarity" : "Epic"
+},
+"Hugo" : {
+	"DisplayName" : "hugo",
+	"Description" : "i dont want you, i want money",
+	"Author" : "alone music: jasper.creations",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"Pushups" : {
+	"DisplayName" : "pushups",
+	"Description" : "drop and give me 30",
+	"Author" : "Sleeby_Lamb",
+	"WalkSpeed" : 0,
+	"Rarity" : "Rare",
+	"Exclude" : true
+},
+"InternetAngel" : {
+	"DisplayName" : "internet angel",
+	"Description" : "needy runner overload!",
+	"Author" : "alone music: maplazalea",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Outrageous"
+},
+"ThugItOut" : {
+	"DisplayName" : "thug it out",
+	"Description" : "you gotta loosen up those motor6ds",
+	"Author" : "Fr0stydias music: maplazalea",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Laugh" : {
+	"DisplayName" : "laugh",
+	"Description" : "how misfortunate for you",
+	"Rarity" : "Common"
+},
+"Sit" : {
+	"DisplayName" : "sit",
+	"Description" : "just gonna sit here for a while.",
+	"WalkSpeed" : 0,
+	"Rarity" : "Uncommon"
+},
+"BostonBreakdance" : {
+	"DisplayName" : "boston breakdance",
+	"Description" : "break it down boston style",
+	"Author" : "Fr0stydias",
+	"WalkSpeed" : 0,
+	"Rarity" : "Epic"
+},
+"metroman" : {
+	"DisplayName" : "metro man",
+	"Description" : "i'm finally free to get in touch with my true power... tagging",
+	"Author" : "CrafterRBLXGo music: maplazalea",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Epic"
+},
+"Facepalm" : {
+	"DisplayName" : "facepalm",
+	"Description" : "smh.",
+	"Rarity" : "Common"
+},
+"MonumentalVictory" : {
+	"DisplayName" : "monumental victory",
+	"Description" : "you're too slow!",
+	"Author" : "ryalbern",
+	"Rarity" : "Rare"
+},
+"Wave" : {
+	"DisplayName" : "wave",
+	"Description" : "hi!!! hello!!!!!",
+	"Rarity" : "Common"
+},
+"Flair" : {
+	"DisplayName" : "flair",
+	"Description" : "i'm too fast!",
+	"Author" : "Fr0stydias music: maplazalea",
+	"WalkSpeed" : 0,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"MetTheQuota" : {
+	"DisplayName" : "met the quota",
+	"Description" : "don't disappoint the company.",
+	"Author" : "Fr0stydias music: uglyburger0",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Legendary"
+},
+"DreamDiary" : {
+	"DisplayName" : "dream diary",
+	"Description" : "dream dream, her dream is still going on (has 3 animations!)",
+	"Author" : "sleeby_lamb music: maplazalea",
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"Meditate" : {
+	"DisplayName" : "meditate",
+	"Description" : "pondering",
+	"Author" : "TheNoobGarry",
+	"WalkSpeed" : 1,
+	"Rarity" : "Common"
+},
+"SeeUAgain" : {
+	"DisplayName" : "see u again",
+	"Description" : "can you make it last forever?",
+	"Author" : "Fr0stydias music: TanielCoolGuy",
+	"WalkSpeed" : 5,
+	"Has Music" : true,
+	"Rarity" : "Mythic"
+},
+"SweatyTryhard" : {
+	"DisplayName" : "sweaty tryhard",
+	"Description" : "gggulp",
+	"Author" : "sleeby_lamb",
+	"WalkSpeed" : 0,
+	"Rarity" : "Mythic"
+}
+}
