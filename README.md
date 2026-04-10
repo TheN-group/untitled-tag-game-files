@@ -12,4 +12,5 @@ We made this :
 
 - For contributors to know if their submission is added to the game.
 - For [tagging.wiki](https://tagging.wiki/) editors to know what stuff is missing.
-
+- To view additions and removal of content
+- Know which maps is unavailable or not in the voting poll
