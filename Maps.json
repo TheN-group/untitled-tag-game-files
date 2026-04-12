@@ -2,43 +2,45 @@
 "bombpassbox" : {
 	"Name" : "bomb box",
 	"Icon" : "rbxassetid://78701953358598",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "GrassyHeights" : {
 	"Name" : "grassy heights",
 	"Icon" : "rbxassetid://118037547153808",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SinkingRocketArena" : {
 	"Name" : "sinking rocket arena",
 	"Icon" : "rbxassetid://17448815127",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "HauntedMansion" : {
 	"Name" : "haunted mansion",
 	"Icon" : "rbxassetid://117904910840730",
 	"Variants" : {
 		"MellowMansion" : {
-			"Weight" : "1"		},
+			"Weight" : 1
+		}, 
 		"DonutShop" : {
-			"Weight" : "1"		}
+			"Weight" : 1
+		}
 	}
 },
 "BuildAnything" : {
 	"Name" : "build anything",
 	"Icon" : "rbxassetid://92860666117332",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Port" : {
 	"Name" : "port",
 	"Icon" : "rbxassetid://119471836943330",
 	"Author" : "vert (@verticoz)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Balls2" : {
 	"Name" : "balls",
 	"Icon" : "rbxassetid://111270635333643",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FarronCreek" : {
 	"Name" : "farron creek ⌛",
@@ -54,54 +56,54 @@
 	"Name" : "frosted action",
 	"Icon" : "rbxassetid://101945493984707",
 	"Author" : "kupi (@kupiofficial) & true_pavuk (@ratpi352)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Skeld" : {
 	"Name" : "the skeld (what)",
 	"Icon" : "rbxassetid://138518977961570",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TownRoads" : {
 	"Name" : "town-roads",
 	"Icon" : "rbxassetid://122214357670195",
 	"Author" : "BoxGuy67 (@Icantfly67) & BaconDad (@RBX_BaconDad)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Playground" : {
 	"Name" : "playground",
 	"Icon" : "rbxassetid://8829642481",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "UndergroundWar" : {
 	"Name" : "underground war",
 	"Icon" : "rbxassetid://138325884301608",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Raven rock but I copied it while it was unanchored" : {
 	"Name" : "raven rock but its unanchored",
 	"Icon" : "rbxassetid://94762027379837",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Vacated" : {
 	"Name" : "vacated",
 	"Icon" : "rbxassetid://105400572729123",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "InitiationCrossroads" : {
 	"Name" : "ci crossroads",
 	"Icon" : "rbxassetid://89292410615831",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "LostCavern" : {
 	"Name" : "lost caverns",
 	"Icon" : "rbxassetid://130803538427379",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SunkenAtoll" : {
 	"Name" : "sunken atoll",
 	"Icon" : "rbxassetid://124966408421459",
 	"Author" : "@SnowyCrest",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "RocketArenaTest" : {
 	"Name" : "rocket arena",
@@ -112,13 +114,13 @@
 	"Name" : "Mycelium Ravine",
 	"Icon" : "rbxassetid://110381136280413",
 	"Author" : "Fork (@XxZiegfriedxX)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "BloxopolisNew" : {
 	"Name" : "Bloxopolis",
 	"Icon" : "rbxassetid://128118123614834",
 	"Author" : "mypic (@mypic1)  & iBan (@ibanfata)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Westside__rock" : {
 	"Name" : "westside rock",
@@ -130,11 +132,13 @@
 	"Icon" : "rbxassetid://86667374771234",
 	"Variants" : {
 		"RavenRockXMAS" : {
-			"Weight" : "0.75"		},
+			"Weight" : 0.75
+		}, 
 		"RavageRock" : {
-			"Weight" : "1"		}
+			"Weight" : 1
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "RobloxHQ" : {
 	"Name" : "roblox hq",
@@ -146,74 +150,78 @@
 	"Icon" : "rbxassetid://15739378255",
 	"Variants" : {
 		"TokyoTown" : {
-			"Weight" : "8"		},
+			"Weight" : 8
+		}, 
 		"Chinatown" : {
-			"Weight" : "10"		},
+			"Weight" : 10
+		}, 
 		"Lava Bloxburg" : {
-			"Weight" : "10"		}
+			"Weight" : 10
+		}
 	}
 },
 "RavageRock" : {
 	"Name" : "ravage rock",
 	"Icon" : "rbxassetid://18762752878",
 	"Author" : "sprites (@XanjwarHdALT)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "CreepyPaths" : {
 	"Name" : "creepypaths",
 	"Icon" : "rbxassetid://96029466690134",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ActionFaction" : {
 	"Name" : "action faction",
 	"Icon" : "rbxassetid://17844407419",
 	"Author" : "@Xxshotgunfloodchamp1 & @brobrothersforever",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FactionAction" : {
 	"Name" : "faction action (wip)",
 	"Icon" : "rbxassetid://16748276431",
 	"Variants" : {
+
 	}
 },
 "SFoTH" : {
 	"Name" : "sword fights on the heights",
 	"Icon" : "rbxassetid://137150131345442",
 	"Author" : "nerd (@ck7608)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Yoricks" : {
 	"Name" : "yorick's resting place",
 	"Icon" : "rbxassetid://114623644024138",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TexaHexa" : {
 	"Name" : "texa-hexa",
 	"Icon" : "rbxassetid://110633917137282",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "MellowMansion" : {
 	"Name" : "mellow mansion",
 	"Icon" : "rbxassetid://17844200995",
 	"Author" : "vert (@verticoz)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "MedievalGlassHouses" : {
 	"Name" : "glass castles",
 	"Icon" : "rbxassetid://126694108606672",
 	"Author" : "chamber (@chammysss)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TokyoTown" : {
 	"Name" : "tokyo town",
 	"Icon" : "rbxassetid://96503097032757",
 	"Author" : "chronical (@thatchronical)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "B-Side SantaStronghold" : {
 	"Name" : "santa's stronghold (b-side)",
 	"Icon" : "rbxassetid://107755638414080",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Courtyard" : {
 	"Name" : "courtyard",
@@ -227,48 +235,50 @@
 "RavenRockXMAS" : {
 	"Name" : "xmas raven rock",
 	"Icon" : "rbxassetid://124760556878616",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SantasStronghold" : {
 	"Name" : "santa's stronghold",
 	"Icon" : "rbxassetid://17448971262",
 	"Variants" : {
 		"SatansStronghold" : {
-			"Weight" : "10"		}
+			"Weight" : 10
+		}
 	}
 },
 "ModernBloxburg" : {
 	"Name" : "modern bloxburg",
 	"Icon" : "rbxassetid://132794939903703",
-	"Author" : "i dunno"
+	"Author" : "i dunno",
+	"Unavailable" : true
 },
 "RaceArena" : {
 	"Name" : "race arena",
 	"Icon" : "rbxassetid://18762632472",
 	"Author" : "sprites (@XanjwarHdALT)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Factory" : {
 	"Name" : "factory",
 	"Icon" : "rbxassetid://9514021187",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "HauntedMansionLegacy" : {
 	"Name" : "haunted mansion (legacy)",
 	"Icon" : "rbxassetid://8549728884",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SunsetChasm" : {
 	"Name" : "sunset chasm",
 	"Icon" : "rbxassetid://136828919958297",
 	"Author" : "chamber (@chammysss)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TropicalJamboree" : {
 	"Name" : "tropical jamboree",
 	"Icon" : "rbxassetid://18762632669",
 	"Author" : "chamber (@chammysss)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "UltimatePaintball" : {
 	"Name" : "ultimate paintball arena",
@@ -278,38 +288,38 @@
 "B-Side Crossroads" : {
 	"Name" : "crossroads (b-side)",
 	"Icon" : "rbxassetid://95971815539021",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SchoolOfRobloxia" : {
 	"Name" : "school of ROBLOXia",
 	"Icon" : "rbxassetid://100146458888100",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TestGround" : {
 	"Name" : "test ground",
 	"Icon" : "rbxassetid://82861252125433",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "DragonValley" : {
 	"Name" : "dragon valley",
 	"Icon" : "rbxassetid://115646079112312",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "MARZ" : {
 	"Name" : "MARZ",
 	"Icon" : "rbxassetid://75135081382501",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TimeZones" : {
 	"Name" : "time zones",
 	"Icon" : "rbxassetid://90748531204303",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Parkadeant" : {
 	"Name" : "parkadeant",
 	"Icon" : "rbxassetid://137506206064662",
 	"Author" : "@arcadeant",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TeapotTemple" : {
 	"Name" : "teapot temple",
@@ -320,298 +330,317 @@
 	"Name" : "toxic pit",
 	"Icon" : "rbxassetid://113774718243470",
 	"Author" : "@ZappyZooms",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "4Worlds" : {
 	"Name" : "four worlds",
 	"Icon" : "rbxassetid://107959598076115",
 	"Author" : "chamber (@chammysss)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Frozen Lab 2" : {
 	"Name" : "frozen lab 2",
 	"Icon" : "rbxassetid://129157553663584",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Skylands" : {
 	"Name" : "skylands",
 	"Icon" : "rbxassetid://103570166345124",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "DeathBurg" : {
 	"Name" : "deathburg",
 	"Icon" : "rbxassetid://94111091378850",
 	"Author" : "vert (@verticoz)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "RocketArenaLegacy" : {
 	"Name" : "rocket arena",
 	"Icon" : "rbxassetid://9225216251",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "RavenRock" : {
 	"Name" : "raven rock",
 	"Icon" : "rbxassetid://15739396912",
 	"Variants" : {
 		"RavenRanch" : {
-			"Weight" : "1"		},
+			"Weight" : 1
+		}, 
 		"ZenRock" : {
-			"Weight" : "1"		}
+			"Weight" : 1
+		}
 	}
 },
 "B-Side Playground" : {
 	"Name" : "playground (b-side)",
 	"Icon" : "rbxassetid://85469165207093",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SandyTracks" : {
 	"Name" : "sandy tracks",
 	"Icon" : "rbxassetid://9522478048",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Meadowlands" : {
 	"Name" : "meadow lands",
 	"Icon" : "rbxassetid://103060821415928",
 	"Author" : "chamber (@chammysss)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "BloxCity" : {
 	"Name" : "blox city (wip)",
 	"Icon" : "rbxassetid://15739378255",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Desert" : {
 	"Name" : "desert",
 	"Icon" : "rbxassetid://122167422342846",
 	"Author" : "butter (@montemajami)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "box" : {
 	"Name" : "box",
 	"Icon" : "rbxassetid://94521739706690",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "BloxTag" : {
 	"Name" : "blox tag",
 	"Icon" : "rbxassetid://9514021473",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FungalRock" : {
 	"Name" : "fungal rock",
 	"Icon" : "rbxassetid://95229026850394",
 	"Author" : "FunkyPurple (@0OFunkyPurple)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "goldenSFOTH" : {
 	"Name" : "SFOTH (golden and azalea's ver)",
 	"Icon" : "rbxassetid://87591435486547",
 	"Author" : "golden (@Niclekk) & maple (@maplazalea)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ZenRock" : {
 	"Name" : "zen rock",
 	"Icon" : "rbxassetid://102454630631624",
 	"Author" : "sprites (@XanjwarHdALT)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FrostRoads" : {
 	"Name" : "frostroads",
 	"Icon" : "rbxassetid://82538836818669",
 	"Author" : "@SnowyCrest",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "BloxCityLegacy" : {
 	"Name" : "blox city (legacy)",
 	"Icon" : "rbxassetid://15739378255",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "AquaArena" : {
 	"Name" : "aqua arena",
 	"Icon" : "rbxassetid://115850299731296",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "evilBloxburg" : {
 	"Name" : "bloodburg",
 	"Icon" : "rbxassetid://137327951705578",
 	"Variants" : {
 		"TokyoTown" : {
-			"Weight" : "8"		},
+			"Weight" : 8
+		}, 
 		"HighwayHavoc" : {
-			"Weight" : "5"		},
+			"Weight" : 5
+		}, 
 		"Chinatown Bloxburg" : {
-			"Weight" : "10"		},
+			"Weight" : 10
+		}, 
 		"Lava Bloxburg" : {
-			"Weight" : "10"		}
+			"Weight" : 10
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "evilChaosCanyon" : {
 	"Name" : "cursed canyon",
 	"Icon" : "rbxassetid://96114028470868",
 	"Variants" : {
 		"PeacefulPlateau" : {
-			"Weight" : "15"		},
+			"Weight" : 15
+		}, 
 		"FarronCreek" : {
-			"Weight" : "15"		}
+			"Weight" : 15
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "4GlassHouses" : {
 	"Name" : "4-way glass houses",
 	"Icon" : "rbxassetid://16719345506",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ParallelRoads" : {
 	"Name" : "parallelroads",
 	"Icon" : "rbxassetid://82084775089463",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Construction" : {
 	"Name" : "construction",
 	"Icon" : "rbxassetid://122359923238978",
 	"Author" : "@TippmanPaintball",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FestiveTown" : {
 	"Name" : "festive town (legacy)",
 	"Icon" : "rbxassetid://104049633579621",
 	"Author" : "kupi (@kupiofficial) & dylusional (@dylude0)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SwampArena" : {
 	"Name" : "swamp arena",
 	"Icon" : "rbxassetid://95065379610389",
 	"Author" : "kupi (@kupiofficial) & iBan (@iDeezBlox)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "evilRocketArena" : {
 	"Name" : "rotten arena",
 	"Icon" : "rbxassetid://106091470074461",
 	"Variants" : {
 		"AquaArena" : {
-			"Weight" : "1"		},
+			"Weight" : 1
+		}, 
 		"JungleArena" : {
-			"Weight" : "1.5"		},
+			"Weight" : 1.5
+		}, 
 		"SinkingRocketArena" : {
-			"Weight" : "0.9"		},
+			"Weight" : 0.9
+		}, 
 		"HighwayHavoc" : {
-			"Weight" : "1.65"		},
+			"Weight" : 1.65
+		}, 
 		"RaceArena" : {
-			"Weight" : "1.25"		}
+			"Weight" : 1.25
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "CrossRoads^2" : {
 	"Name" : "crossroads^2",
 	"Icon" : "rbxassetid://129188574626439",
 	"Author" : "sune (@ssunareii)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ss2" : {
 	"Name" : "santa's stronghold reboot (wip)",
 	"Icon" : "rbxassetid://135645851118660",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "evilFactionAction" : {
 	"Name" : "frightful faction",
 	"Icon" : "rbxassetid://130583723620460",
 	"Variants" : {
 		"ActionFaction" : {
-			"Weight" : "10"		}
+			"Weight" : 10
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FourSides" : {
 	"Name" : "four sided",
 	"Icon" : "rbxassetid://130666185196422",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "evilSantasStronghold" : {
 	"Name" : "spectre's stronghold",
 	"Icon" : "rbxassetid://73678409141768",
 	"Variants" : {
 		"SatansStronghold" : {
-			"Weight" : "10"		}
+			"Weight" : 10
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "evilCrossRoads" : {
 	"Name" : "creepyroads",
 	"Icon" : "rbxassetid://76843444922490",
 	"Variants" : {
 		"ParallelRoads" : {
-			"Weight" : "15"		},
+			"Weight" : 15
+		}, 
 		"Crassruds" : {
-			"Weight" : "1"		},
+			"Weight" : 1
+		}, 
 		"InitiationCrossroads" : {
-			"Weight" : "1"		},
+			"Weight" : 1
+		}, 
 		"Crosspaths" : {
-			"Weight" : "5"		}
+			"Weight" : 5
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "RiverBridge" : {
 	"Name" : "river bridge",
 	"Icon" : "rbxassetid://101689645045884",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "GlassHousesLegacy" : {
 	"Name" : "glass houses (legacy)",
 	"Icon" : "rbxassetid://8561238171",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TheSimulation" : {
 	"Name" : "the simulation",
 	"Icon" : "rbxassetid://109900487896405",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Randomness" : {
 	"Name" : "randomness",
 	"Icon" : "rbxassetid://110372871274376",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "TagOutdoors" : {
 	"Name" : "tag outdoors",
 	"Icon" : "rbxassetid://72993835484923",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Phantasmagoria" : {
 	"Name" : "phantasmagoria",
 	"Icon" : "rbxassetid://15131363195",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FarronCreek2" : {
 	"Name" : "farcre2",
 	"Icon" : "rbxassetid://18762633278",
 	"Author" : "chamber (@chammysss)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ChristmasEve" : {
 	"Name" : "christmas eve bloxburg",
 	"Icon" : "rbxassetid://137668782900886",
 	"Author" : "i dunnor",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "BloxiaSewers" : {
 	"Name" : "BLOXia sewers",
 	"Icon" : "rbxassetid://101569190947407",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ChaosCloudCity" : {
 	"Name" : "chaos cloud city",
 	"Icon" : "rbxassetid://84348614507994",
 	"Author" : "maple (@maplazalea)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "MallMap" : {
 	"Name" : "mall",
 	"Icon" : "rbxassetid://81751684311054",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Colosseum" : {
 	"Name" : "colosseum",
 	"Icon" : "rbxassetid://9514021324",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SwampRock" : {
 	"Name" : "swamp rock",
@@ -621,7 +650,7 @@
 "BoringBastion" : {
 	"Name" : "boring bastion",
 	"Icon" : "rbxassetid://107648785850446",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Craigville" : {
 	"Name" : "craigville",
@@ -630,12 +659,12 @@
 "TinyBaseplate" : {
 	"Name" : "tiny baseplate",
 	"Icon" : "rbxassetid://119516336936071",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "BridgeBonanza" : {
 	"Name" : "bridge bonanza",
 	"Icon" : "rbxassetid://106676724395321",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Area51" : {
 	"Name" : "area 51",
@@ -644,185 +673,187 @@
 "MoltenMaze" : {
 	"Name" : "molten maze",
 	"Icon" : "rbxassetid://127747591773049",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "JungleArena" : {
 	"Name" : "jungle arena",
 	"Icon" : "rbxassetid://18762632669",
 	"Author" : "chamber (@chammysss)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "MovementPlots" : {
 	"Name" : "movement plots",
 	"Icon" : "rbxassetid://86895170048683",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Spleef" : {
 	"Name" : "spleef",
 	"Icon" : "rbxassetid://78606249288790",
 	"Author" : "kupi (@kupiofficial)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Bastion" : {
 	"Name" : "bastion",
 	"Icon" : "rbxassetid://120204671837108",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SunsetPlains" : {
 	"Name" : "sunset plains",
 	"Icon" : "rbxassetid://103504316917599",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SFoTHTest" : {
 	"Name" : "sword fights on the heights (test)",
 	"Icon" : "rbxassetid://137150131345442",
 	"Author" : "nerd (@ck7608)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "VirtualRoads" : {
 	"Name" : "virtual roads",
 	"Icon" : "rbxassetid://93993429759823",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SnowySettlement" : {
 	"Name" : "Snowy Settlement",
 	"Icon" : "rbxassetid://130963870688347",
 	"Author" : "mypic (@mypic1)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "nn_CrossRoads" : {
 	"Name" : "nn_crossroads",
 	"Icon" : "rbxassetid://105972089928900",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "WesternOasis" : {
 	"Name" : "western oasis",
 	"Icon" : "rbxassetid://111379996925785",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SantasStrongholdLegacy" : {
 	"Name" : "santas stronghold (legacy)",
 	"Icon" : "rbxassetid://8571300913",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Westside" : {
 	"Name" : "westside",
 	"Icon" : "rbxassetid://9514019469",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "B-Side RocketArena Old" : {
 	"Name" : "rocket arena (old b-side)",
 	"Icon" : "rbxassetid://135645851118660",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "AprilFoolsRavenRock" : {
 	"Name" : "raven rock (legacy)",
 	"Icon" : "rbxassetid://135645851118660",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ParkourCity" : {
 	"Name" : "parkour city",
 	"Icon" : "rbxassetid://9514020265",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "CandyLand" : {
 	"Name" : "candy land",
 	"Icon" : "rbxassetid://112441209002369",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ArtisticMovementism" : {
 	"Name" : "artistic movementism",
 	"Icon" : "rbxassetid://139346736806354",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ToyCastle" : {
 	"Name" : "toy castle",
 	"Icon" : "rbxassetid://9514019897",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "CrossRoads" : {
 	"Name" : "crossroads",
 	"Icon" : "rbxassetid://15763910669",
 	"Variants" : {
 		"ParallelRoads" : {
-			"Weight" : "15"		},
+			"Weight" : 15
+		}, 
 		"TownRoads" : {
-			"Weight" : "10"		}
+			"Weight" : 10
+		}
 	}
 },
 "UndeadEstate" : {
 	"Name" : "undead estate",
 	"Icon" : "rbxassetid://71317300690782",
 	"Author" : "maple (@maplazalea)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Bloxopolis" : {
 	"Name" : "Bloxopolis (Legacy)",
 	"Icon" : "rbxassetid://103922914290036",
 	"Author" : "mypic (@mypic1)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Movementism" : {
 	"Name" : "movementism",
 	"Icon" : "rbxassetid://114358974020016",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Crassruds" : {
 	"Name" : "crassruds",
 	"Icon" : "rbxassetid://16737044942",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SlapArena" : {
 	"Name" : "slaparena",
 	"Icon" : "rbxassetid://92287738443024",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FightField" : {
 	"Name" : "fight field",
 	"Icon" : "rbxassetid://73145935618260",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Lava Bloxburg" : {
 	"Name" : "climate change bloxburg",
 	"Icon" : "rbxassetid://18615710706",
 	"Author" : "nerd (@ck7608)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SFoTHLegacy" : {
 	"Name" : "sword fights on the heights",
 	"Icon" : "rbxassetid://8588104139",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Baseplate" : {
 	"Name" : "baseplate",
 	"Icon" : "rbxassetid://89927529481991",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "biggerbox" : {
 	"Name" : "bigger box",
 	"Icon" : "rbxassetid://113344074924691",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "CrossRoadsLegacy" : {
 	"Name" : "crossroads (legacy)",
 	"Icon" : "rbxassetid://8549729461",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "hm2" : {
 	"Name" : "haunted mansion reboot (wip)",
 	"Icon" : "rbxassetid://135645851118660",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ModernEraOld" : {
 	"Name" : "legacy modern era",
 	"Icon" : "rbxassetid://123952304951522",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "RavenRanch" : {
 	"Name" : "raven ranch",
 	"Icon" : "rbxassetid://17861155185",
 	"Author" : "@SnowyCrest",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Dam" : {
 	"Name" : "titanis' reservoir",
@@ -832,18 +863,18 @@
 "RandomlyGenerated" : {
 	"Name" : "literally randomly generated",
 	"Icon" : "rbxassetid://80982237945893",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Chinatown" : {
 	"Name" : "chinatown bloxburg",
 	"Icon" : "rbxassetid://18762632105",
 	"Author" : "sune (@ssunareii)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "wuhbluh" : {
 	"Name" : "wuhbluh",
 	"Icon" : "rbxassetid://135645851118660",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "CrossPaths" : {
 	"Name" : "crosspaths",
@@ -853,19 +884,19 @@
 	"Name" : "battleground arena",
 	"Icon" : "rbxassetid://135457015599322",
 	"Author" : "mypic (@mypic1)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "GrassHouses" : {
 	"Name" : "grass houses",
 	"Icon" : "rbxassetid://18762633100",
 	"Author" : "@Woomyko",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "DonutShop" : {
 	"Name" : "donut shop",
 	"Icon" : "rbxassetid://123427539456128",
 	"Author" : "maple (@maplazalea)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "CrossyRoads" : {
 	"Name" : "crossy-roads",
@@ -877,17 +908,19 @@
 	"Icon" : "rbxassetid://112077936889436",
 	"Variants" : {
 		"WalledGlassHouses" : {
-			"Weight" : "5"		},
+			"Weight" : 5
+		}, 
 		"4GlassHouses" : {
-			"Weight" : "10"		}
+			"Weight" : 10
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ToyArena" : {
 	"Name" : "toy arena",
 	"Icon" : "rbxassetid://126396927728689",
 	"Author" : "Bloxerise (@Squistic)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FestiveTown2" : {
 	"Name" : "festive town",
@@ -898,30 +931,31 @@
 	"Icon" : "rbxassetid://16783021981",
 	"Variants" : {
 		"FarronCreek" : {
-			"Weight" : "15"		}
+			"Weight" : 15
+		}
 	}
 },
 "DuoCross" : {
 	"Name" : "duocross",
 	"Icon" : "rbxassetid://114178523202873",
 	"Author" : "@Ronkhus",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "GlassHeadquarters" : {
 	"Name" : "glass headquarters",
 	"Icon" : "rbxassetid://111747229623216",
 	"Author" : "maple (@maplazalea)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "B-Side SFoTH" : {
 	"Name" : "sfoth (b-side)",
 	"Icon" : "rbxassetid://75690909755664",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "DividedLands" : {
 	"Name" : "divided lands",
 	"Icon" : "rbxassetid://111063164286144",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SFoTH2" : {
 	"Name" : "sword fights on the heights",
@@ -931,23 +965,23 @@
 "B-Side RocketArena" : {
 	"Name" : "rocket arena (b-side)",
 	"Icon" : "rbxassetid://135645851118660",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "HighwayHavoc" : {
 	"Name" : "highway havoc",
 	"Icon" : "rbxassetid://18762632911",
 	"Author" : "chronical (@thatchronical)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "B-Side Playground Old" : {
 	"Name" : "playground (old b-side)",
 	"Icon" : "rbxassetid://131874758097046",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "B-Side GlassHouses" : {
 	"Name" : "glass houses (b-side)",
 	"Icon" : "rbxassetid://125639625243003",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ModernRavenrock" : {
 	"Name" : "modern ravenrock",
@@ -959,100 +993,107 @@
 	"Icon" : "rbxassetid://17448815127",
 	"Variants" : {
 		"AquaArena" : {
-			"Weight" : "1.65"		},
+			"Weight" : 1.65
+		}, 
 		"ToyArena" : {
-			"Weight" : "1.65"		},
+			"Weight" : 1.65
+		}, 
 		"HighwayHavoc" : {
-			"Weight" : "1.65"		},
+			"Weight" : 1.65
+		}, 
 		"BattlegroundArena" : {
-			"Weight" : "1.65"		}
+			"Weight" : 1.65
+		}
 	},
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ChaosCanyonLegacy" : {
 	"Name" : "chaos canyon (legacy)",
 	"Icon" : "rbxassetid://8549729846",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "RuinsBurg" : {
 	"Name" : "ruinsburg",
 	"Icon" : "rbxassetid://128365255615633",
 	"Author" : "i dunnor",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ZenithZone" : {
 	"Name" : "zenith zone",
 	"Icon" : "rbxassetid://75992218811442",
 	"Author" : "chronical (@thatchronical)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Ruination" : {
 	"Name" : "ruination",
 	"Icon" : "rbxassetid://8549729461",
 	"Author" : "chamber (@chammysss)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SatansStronghold" : {
 	"Name" : "satan's stronghold",
 	"Icon" : "rbxassetid://18762632242",
 	"Author" : "nerd (@ck7608)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "WalledGlassHouses" : {
 	"Name" : "walled glass houses",
 	"Icon" : "rbxassetid://100130545118625",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "AprilFoolsBloxburg" : {
 	"Name" : "bloxburg (legacy)",
 	"Icon" : "rbxassetid://135645851118660",
 	"Author" : "nerd (@ck7608)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "ModernEra" : {
 	"Name" : "modern era",
 	"Icon" : "rbxassetid://93909862901184",
 	"Author" : "@Zora560",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "SlappyRoads" : {
 	"Name" : "slappyroads",
 	"Icon" : "rbxassetid://134100206880668",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Colo2" : {
 	"Name" : "colo2",
 	"Icon" : "rbxassetid://135645851118660",
 	"Author" : "i dunno",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "menatrobelminesweeper" : {
 	"Name" : "menatrobel's minesweeper",
 	"Icon" : "rbxassetid://94554957343097",
 	"Author" : "@menatrobel & itss (@itssuperman35)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "GlassHouses" : {
 	"Name" : "glass houses",
 	"Icon" : "rbxassetid://16783072453",
 	"Variants" : {
 		"MedievalGlassHouses" : {
-			"Weight" : "10"		},
+			"Weight" : 10
+		}, 
 		"GrassHouses" : {
-			"Weight" : "10"		},
+			"Weight" : 10
+		}, 
 		"WalledGlassHouses" : {
-			"Weight" : "5"		}
+			"Weight" : 5
+		}
 	}
 },
 "CrossRoads3" : {
 	"Name" : "cwosswoads :3",
 	"Icon" : "rbxassetid://137862402184891",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "FrozenLab" : {
 	"Name" : "frozen lab",
 	"Icon" : "rbxassetid://9514021024",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "PizzaPieParlor" : {
 	"Name" : "pizza pie parlor",
@@ -1063,32 +1104,32 @@
 	"Name" : "sinkroads",
 	"Icon" : "rbxassetid://77559566647488",
 	"Author" : "chronical (@thatchronical)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "PlaygroundFortress" : {
 	"Name" : "playground fortress",
 	"Icon" : "rbxassetid://91866526276008",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Studville" : {
 	"Name" : "studville (major lag warning)",
 	"Icon" : "rbxassetid://122487718886127",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Prison" : {
 	"Name" : "prison",
 	"Icon" : "rbxassetid://107425649387327",
 	"Author" : "i dunno (i dunno)",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "Swamp" : {
 	"Name" : "swamp",
 	"Icon" : "rbxassetid://131813052955492",
-	"Unavailable" : "true"
+	"Unavailable" : true
 },
 "MushroomIsland" : {
 	"Name" : "mushroom island",
 	"Icon" : "rbxassetid://112312155132501",
-	"Unavailable" : "true"
+	"Unavailable" : true
 }
 }
