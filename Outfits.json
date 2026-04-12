@@ -17,7 +17,8 @@
 	"Description" : "test",
 	"Author" : "nixybelle",
 	"Image Id" : "rbxassetid://135645851118660",
-	"Rarity" : "Epic"
+	"Rarity" : "Epic",
+	"Admin Only" : true
 },
 "brickbattler" : {
 	"DisplayName" : "brickbattler",
@@ -65,7 +66,8 @@
 	"DisplayName" : "3D Scanned Human Being",
 	"Description" : "he can't hurt you any more",
 	"Image Id" : "rbxassetid://18294681448",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Leprechaun" : {
 	"DisplayName" : "leprechaun",
@@ -100,7 +102,8 @@
 	"Description" : "always the last one standing",
 	"Image Id" : "rbxassetid://139854766358175",
 	"Rarity" : "Epic",
-	"Exclude" : true
+	"Exclude" : true,
+	"Admin Only" : true
 },
 "SWAT" : {
 	"DisplayName" : "SWAT",
@@ -121,7 +124,8 @@
 	"Description" : "test",
 	"Author" : "GlaresOfChaos",
 	"Image Id" : "rbxassetid://135645851118660",
-	"Rarity" : "Epic"
+	"Rarity" : "Epic",
+	"Admin Only" : true
 },
 "FrankMonster" : {
 	"DisplayName" : "frank's monster",
@@ -177,7 +181,8 @@
 	"DisplayName" : "scp-096",
 	"Description" : "4 freaking studs",
 	"Image Id" : "rbxassetid://17617086834",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Vampire" : {
 	"DisplayName" : "vampire",
@@ -191,13 +196,15 @@
 	"DisplayName" : "little men",
 	"Description" : "frens :)",
 	"Image Id" : "rbxassetid://17599990066",
-	"Rarity" : "TBA"
+	"Rarity" : "TBA",
+	"Admin Only" : true
 },
 "Blazing" : {
 	"DisplayName" : "blazing",
 	"Description" : "le aura",
 	"Image Id" : "rbxassetid://17590581201",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "CuteWitch" : {
 	"DisplayName" : "apprentice witch",
@@ -252,7 +259,8 @@
 	"DisplayName" : "redekbob",
 	"Description" : "imtesting",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "demonduster" : {
 	"DisplayName" : "demon duster",
@@ -312,7 +320,8 @@
 	"DisplayName" : "the stalker",
 	"Description" : "holy",
 	"Image Id" : "rbxassetid://17599428840",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "rockdigger" : {
 	"DisplayName" : "rockdigger",
@@ -340,7 +349,8 @@
 	"DisplayName" : "card",
 	"Description" : "now playable",
 	"Image Id" : "rbxassetid://18565542713",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "CandyCadet" : {
 	"DisplayName" : "candy cadet",
@@ -417,7 +427,8 @@
 	"DisplayName" : "droneTest",
 	"Description" : "nicolai's test boy",
 	"Image Id" : "rbxassetid://17600045598",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Jester" : {
 	"DisplayName" : "jester",
@@ -469,7 +480,8 @@
 	"DisplayName" : "urotsuki",
 	"Description" : "moderator",
 	"Image Id" : "rbxassetid://17600714112",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "doge" : {
 	"DisplayName" : "doge",
@@ -521,13 +533,15 @@
 	"DisplayName" : "the shadow",
 	"Description" : "you're crazy im not even here",
 	"Image Id" : "rbxassetid://17599677009",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "KingWin" : {
 	"DisplayName" : "king (winner)",
 	"Description" : "whuh",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Special"
+	"Rarity" : "Special",
+	"Admin Only" : true
 },
 "medivalknight" : {
 	"DisplayName" : "sacred knight",
@@ -585,14 +599,16 @@
 	"DisplayName" : "hallows skeleton",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "theworm" : {
 	"DisplayName" : "the worm™",
 	"Description" : "im just wormin' around",
 	"Author" : "the worm",
 	"Image Id" : "rbxassetid://17580766134",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "bobby" : {
 	"DisplayName" : "bobby",
@@ -613,7 +629,8 @@
 	"Description" : "test",
 	"Author" : "nixybelle",
 	"Image Id" : "rbxassetid://135645851118660",
-	"Rarity" : "Epic"
+	"Rarity" : "Epic",
+	"Admin Only" : true
 },
 "silverfit" : {
 	"DisplayName" : "silver fit",
@@ -625,13 +642,15 @@
 	"DisplayName" : "hallows smile dog",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "markiplier" : {
 	"DisplayName" : "markiplier",
 	"Description" : "hello everybody",
 	"Image Id" : "rbxassetid://1739858881",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "TrackRunner" : {
 	"DisplayName" : "track runner",
@@ -644,7 +663,8 @@
 	"DisplayName" : "god",
 	"Description" : "do NOT put this in the hands of the public",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "BlueWizard" : {
 	"DisplayName" : "battle mage",
@@ -740,7 +760,8 @@
 	"DisplayName" : "hallows eyeless jack",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Nutcracker" : {
 	"DisplayName" : "Nutcracker",
@@ -767,7 +788,8 @@
 	"DisplayName" : "ghost mod",
 	"Description" : "moderator",
 	"Image Id" : "rbxassetid://17601053684",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "WINSTON" : {
 	"DisplayName" : "winston",
@@ -809,13 +831,15 @@
 	"DisplayName" : "wellington",
 	"Description" : "(you shouldn't have this lol)",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "ToyNico" : {
 	"DisplayName" : "toy Nicolai",
 	"Description" : "its him",
 	"Image Id" : "rbxassetid://17590581201",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "AngelGoddessStaffless" : {
 	"DisplayName" : "angel goddess",
@@ -840,7 +864,7 @@
 },
 "ShortFuse" : {
 	"DisplayName" : "shortfuse",
-	"Description" : ""IM DA BOMB" - ChandelureBoi",
+	"Description" : "IM DA BOMB - ChandelureBoi",
 	"Author" : "maplazalea and shaddinaround",
 	"Image Id" : "rbxassetid://80430844055890",
 	"Rarity" : "Epic"
@@ -877,7 +901,8 @@
 	"DisplayName" : "hallows witchhat",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Bounder" : {
 	"DisplayName" : "bounder",
@@ -897,7 +922,8 @@
 	"DisplayName" : "hallows crown",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "glassblower" : {
 	"DisplayName" : "glassblower",
@@ -925,7 +951,8 @@
 	"Author" : "ck7608",
 	"Image Id" : "rbxassetid://18628306440",
 	"Rarity" : "Outrageous",
-	"Exclude" : true
+	"Exclude" : true,
+	"Admin Only" : true
 },
 "CanyonConstable" : {
 	"DisplayName" : "canyon constable",
@@ -973,7 +1000,8 @@
 	"DisplayName" : "a car",
 	"Description" : "literally just a car",
 	"Image Id" : "rbxassetid://17599471688",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "GHOUL" : {
 	"DisplayName" : "ghoul",
@@ -1116,7 +1144,8 @@
 	"DisplayName" : "ew",
 	"Description" : "idek what this is",
 	"Image Id" : "rbxassetid://17580852557",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "AprilFools_Rock" : {
 	"DisplayName" : "rock",
@@ -1169,13 +1198,15 @@
 	"DisplayName" : "slenderman",
 	"Description" : "Collect my pages",
 	"Image Id" : "rbxassetid://18823365296",
-	"Rarity" : "TBA"
+	"Rarity" : "TBA",
+	"Admin Only" : true
 },
 "pingus" : {
 	"DisplayName" : "pingus",
 	"Description" : "scourge.",
 	"Image Id" : "rbxassetid://17287694937",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "paralysis" : {
 	"DisplayName" : "paralysis",
@@ -1200,7 +1231,8 @@
 	"DisplayName" : "oswald",
 	"Description" : "my greatest creation",
 	"Image Id" : "rbxassetid://17598726922",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Doll" : {
 	"DisplayName" : "doll",
@@ -1351,14 +1383,16 @@
 	"DisplayName" : "king",
 	"Description" : "shoutout to combat initiation (you shouldn't have this lol)",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Special"
+	"Rarity" : "Special",
+	"Admin Only" : true
 },
 "arsonist" : {
 	"DisplayName" : "arsonist",
 	"Description" : "test",
 	"Author" : "nixybelle",
 	"Image Id" : "rbxassetid://135645851118660",
-	"Rarity" : "Epic"
+	"Rarity" : "Epic",
+	"Admin Only" : true
 },
 "StickerManiac" : {
 	"DisplayName" : "sticker maniac",
@@ -1411,7 +1445,8 @@
 	"DisplayName" : "hallows headless",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "bear" : {
 	"DisplayName" : "bear",
@@ -1467,13 +1502,15 @@
 	"Description" : "test",
 	"Author" : "GlaresOfChaos",
 	"Image Id" : "rbxassetid://135645851118660",
-	"Rarity" : "Epic"
+	"Rarity" : "Epic",
+	"Admin Only" : true
 },
 "Hallows2024_Jason" : {
 	"DisplayName" : "hallows jason",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Renegade" : {
 	"DisplayName" : "renegade",
@@ -1569,7 +1606,8 @@
 	"DisplayName" : "hallows slenderman",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "BunnyJammies" : {
 	"DisplayName" : "bunny jammies",
@@ -1643,7 +1681,8 @@
 	"DisplayName" : "crossroads",
 	"Description" : "i really wanted to try this",
 	"Image Id" : "rbxassetid://17599808283",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "cybernetic" : {
 	"DisplayName" : "cybernetic",
@@ -1712,7 +1751,8 @@
 	"DisplayName" : "hallows saint",
 	"Description" : "ill figure out a way to hide these eventually. SHHHH",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Rockstar" : {
 	"DisplayName" : "rockstar",
@@ -1725,7 +1765,8 @@
 	"DisplayName" : "testing outfit",
 	"Description" : "testingoutfit",
 	"Image Id" : "rbxassetid://18307772546",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "TheRunner" : {
 	"DisplayName" : "parkourist",
@@ -1738,7 +1779,8 @@
 	"DisplayName" : "unfathomable rage",
 	"Description" : "never will this be allowed",
 	"Image Id" : "rbxassetid://17580870797",
-	"Rarity" : "Admin"
+	"Rarity" : "Admin",
+	"Admin Only" : true
 },
 "Doors_FigureOutfit" : {
 	"DisplayName" : "figure",
