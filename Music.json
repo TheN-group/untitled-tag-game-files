@@ -1,2168 +1,2168 @@
-{
-["MiawMeow"] = {
-	["Name"] = "miaw meow",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://104393619635863"
-},
-["MatteTiles"] = {
-	["Name"] = "matte tiles",
-	["Genre"] = "Lobby",
-	["Authors"] = "rockblade_e",
-	["AlbumCoverId"] = "rbxassetid://72036102979261"
-},
-["One Last Chance"] = {
-	["Name"] = "One Last Chance",
-	["Genre"] = "Round",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://136050556946779"
-},
-["F0RC3 BR34CH"] = {
-	["Name"] = "F0RC3 BR34CH",
-	["Genre"] = "Round",
-	["Authors"] = {"Astraxlite", "FORSE54"},
-	["AlbumCoverId"] = "rbxassetid://77660745271816"
-},
-["ChillOut"] = {
-	["Name"] = "chill out",
-	["Genre"] = "Lobby",
-	["Authors"] = "xanjwarhdalt",
-	["AlbumCoverId"] = "rbxassetid://118546739937212"
-},
-["w3lcm 2 r0blx"] = {
-	["Name"] = "w3lcm 2 r0blx",
-	["Genre"] = "Lobby",
-	["Authors"] = "KateBuck",
-	["AlbumCoverId"] = "rbxassetid://113276687268972"
-},
-["Adrenaline"] = {
-	["Name"] = "Adrenaline",
-	["Genre"] = "Round",
-	["Authors"] = "VAVS",
-	["AlbumCoverId"] = "rbxassetid://76814632922647"
-},
-["isotope"] = {
-	["Name"] = "isotope",
-	["Genre"] = "Round",
-	["Authors"] = "sally",
-	["AlbumCoverId"] = "rbxassetid://77169995614695"
-},
-["Maplesyrup"] = {
-	["Name"] = "maplesyrup",
-	["Genre"] = "Lobby",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://87155970907600"
-},
-["Neutral Parti"] = {
-	["Name"] = "Neutral Parti",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://70441356263406"
-},
-["Cataclysm"] = {
-	["Name"] = "Cataclysm",
-	["Genre"] = "Round",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://113844191867349"
-},
-["TagU"] = {
-	["Name"] = "Tag U",
-	["Genre"] = "Lobby",
-	["Authors"] = "box",
-	["AlbumCoverId"] = "rbxassetid://18756521564"
-},
-["supernova"] = {
-	["Name"] = "supernova",
-	["Genre"] = "Round",
-	["Authors"] = "box",
-	["AlbumCoverId"] = "rbxassetid://88275574880906"
-},
-["BloxiSwing!"] = {
-	["Name"] = "BloxiSwing!",
-	["Genre"] = "Lobby",
-	["Authors"] = "Quagorto",
-	["AlbumCoverId"] = "rbxassetid://111966494354746"
-},
-["crashout (thick mix)"] = {
-	["Name"] = "crashout (sus mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["Crashsyrup"] = {
-	["Name"] = "maplesyrup",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://87155970907600"
-},
-["Bomb"] = {
-	["Name"] = "rainbow remix",
-	["Genre"] = "Round",
-	["Authors"] = "sulflix",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["by the shore with you"] = {
-	["Name"] = "by the shore with you",
-	["Genre"] = "Lobby",
-	["Authors"] = "lrnzo",
-	["AlbumCoverId"] = "rbxassetid://116525810785633"
-},
-["LastManStanding"] = {
-	["Name"] = "Last Man Standing",
-	["Genre"] = "Round",
-	["Authors"] = "jusstomeone",
-	["AlbumCoverId"] = "rbxassetid://18801843678"
-},
-["zirconium"] = {
-	["Name"] = "zirconium",
-	["Genre"] = "Round",
-	["Authors"] = "one80",
-	["AlbumCoverId"] = "rbxassetid://97852882359631"
-},
-["RunChu"] = {
-	["Name"] = "run",
-	["Genre"] = "Round",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://94718734202944"
-},
-["sodastreet"] = {
-	["Name"] = "sodastreet",
-	["Genre"] = "Round",
-	["Authors"] = "box",
-	["AlbumCoverId"] = "rbxassetid://86796930000245"
-},
-["LastRunnerStanding"] = {
-	["Name"] = "Last Runner Standing",
-	["Genre"] = "Infected",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://85996221434164"
-},
-["PlatformSynthesis"] = {
-	["Name"] = "Platform Synthesis",
-	["Genre"] = "Lobby",
-	["Authors"] = {"GabeSipache", "NtCyann"},
-	["AlbumCoverId"] = "rbxassetid://18756522307"
-},
-["ROBLIXinstru"] = {
-	["Name"] = "ROBLIX (instrumental)",
-	["Genre"] = "Lobby",
-	["Authors"] = "joei",
-	["AlbumCoverId"] = "rbxassetid://17404349800"
-},
-["ALL I NEED IS YOU"] = {
-	["Name"] = "ALL I NEED IS YOU",
-	["Genre"] = "Round",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://80116141226920"
-},
-["HAZE"] = {
-	["Name"] = "HAZE",
-	["Genre"] = "Round",
-	["Authors"] = "one80",
-	["AlbumCoverId"] = "rbxassetid://134063403010016"
-},
-["Sturdy"] = {
-	["Name"] = "sturdy",
-	["Genre"] = "Vault",
-	["Authors"] = "kupi",
-	["AlbumCoverId"] = "rbxassetid://136228368394778"
-},
-["TheGreatStrategy"] = {
-	["Name"] = "The Great Strategy",
-	["Genre"] = "Round",
-	["Authors"] = "Badliz",
-	["AlbumCoverId"] = "rbxassetid://15740929228"
-},
-["well restedv2"] = {
-	["Name"] = "well rested",
-	["Genre"] = "Lobby",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://96454435230466"
-},
-["RainingTacos"] = {
-	["Name"] = "Raining Tacos",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Parry Gripp",
-	["AlbumCoverId"] = "rbxassetid://129147628827205"
-},
-["Meanwhile"] = {
-	["Name"] = "Meanwhile",
-	["Genre"] = "Vault",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://18756523756"
-},
-["QWERTY"] = {
-	["Name"] = "QWERTY",
-	["Genre"] = "Round",
-	["Authors"] = "nicopatty",
-	["AlbumCoverId"] = "rbxassetid://17016448294"
-},
-["PRESS PLAY"] = {
-	["Name"] = "PRESS PLAY",
-	["Genre"] = "Lobby",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://102964521264734"
-},
-["JugRemix"] = {
-	["Name"] = "Juggernaut (remix)",
-	["Genre"] = "CombatInitiation",
-	["Authors"] = {"MysticNuggets", "Combat Initiation"},
-	["AlbumCoverId"] = "rbxassetid://18631039265"
-},
-["Universal"] = {
-	["Name"] = "Universal",
-	["Genre"] = "Lobby",
-	["Authors"] = "galaxymp3",
-	["AlbumCoverId"] = "rbxassetid://124775825021090"
-},
-["B4 U Go"] = {
-	["Name"] = "B4 U Go",
-	["Genre"] = "Lobby",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://128022324784818"
-},
-["ClassicalConundrum"] = {
-	["Name"] = "Classical Conundrum",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "myralune",
-	["AlbumCoverId"] = "rbxassetid://99591334407403"
-},
-["fresh air"] = {
-	["Name"] = "fresh air",
-	["Genre"] = "Round",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://84353096831127"
-},
-["SpoopyHour"] = {
-	["Name"] = "spoopy hour",
-	["Genre"] = "Hallows2024",
-	["Authors"] = "RedPlayzYT20",
-	["AlbumCoverId"] = "rbxassetid://104623610810453"
-},
-["HappyDayInRobloxia"] = {
-	["Name"] = "Happy Day In ROBLOXia",
-	["Genre"] = "Lobby",
-	["Authors"] = "ScorpioPilot",
-	["AlbumCoverId"] = "rbxassetid://15753400766"
-},
-["B!0xxer"] = {
-	["Name"] = "B!0xxer",
-	["Genre"] = "Lobby",
-	["Authors"] = "JUSTdev",
-	["AlbumCoverId"] = "rbxassetid://120375464076260"
-},
-["Respawned"] = {
-	["Name"] = "Respawned",
-	["Genre"] = "Round",
-	["Authors"] = "Funki_TehG00B3R",
-	["AlbumCoverId"] = "rbxassetid://120740577903489"
-},
-["bangkokchina"] = {
-	["Name"] = "bangkok",
-	["Genre"] = "Lobby",
-	["Authors"] = "relow",
-	["AlbumCoverId"] = "rbxassetid://110221390010121"
-},
-["TheDoodad"] = {
-	["Name"] = "The Doodad",
-	["Genre"] = "Lobby",
-	["Authors"] = "TanielCoolGuy",
-	["AlbumCoverId"] = "rbxassetid://18773670323"
-},
-["marmalade dream boksed edit"] = {
-	["Name"] = "marmelade dream boksed edit",
-	["Genre"] = "Round",
-	["Authors"] = "box",
-	["AlbumCoverId"] = "rbxassetid://92745313334786"
-},
-["HIGH UP"] = {
-	["Name"] = "HIGH_UP",
-	["Genre"] = "Round",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://121596810078917"
-},
-["ParadiseFalls"] = {
-	["Name"] = "Paradise Falls",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Craig McConnell",
-	["AlbumCoverId"] = "rbxassetid://82728799360273"
-},
-["Crashout"] = {
-	["Name"] = "crash out [tag mix]",
-	["Genre"] = "Round",
-	["Authors"] = "1nicopatty",
-	["AlbumCoverId"] = "rbxassetid://17771116085"
-},
-["Solitaire"] = {
-	["Name"] = "Solitaire",
-	["Genre"] = "Lobby",
-	["Authors"] = "Gerd Kadenbach",
-	["AlbumCoverId"] = "rbxassetid://15785381707"
-},
-["crashout (hk97 mix)"] = {
-	["Name"] = "crashout (hk97 mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["PrimaBossaNova"] = {
-	["Name"] = "Prima Bossa Nova",
-	["Genre"] = "Lobby",
-	["Authors"] = "Anthony Mawer",
-	["AlbumCoverId"] = "rbxassetid://15742281872"
-},
-["QWERTYAprilFoolsMix"] = {
-	["Name"] = "QWERTY April Fools Mix",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "ELPANARP",
-	["AlbumCoverId"] = "rbxassetid://104969117031772"
-},
-["TagMe"] = {
-	["Name"] = "Tag Me!",
-	["Genre"] = "Lobby",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://17084493034"
-},
-["SnakesNTaggers"] = {
-	["Name"] = "snakes n' taggers",
-	["Genre"] = "Round",
-	["Authors"] = "maplazalea",
-	["AlbumCoverId"] = "rbxassetid://18756521762"
-},
-["Delirium"] = {
-	["Name"] = "Delirium",
-	["Genre"] = "Infected",
-	["Authors"] = "uglyburger0",
-	["AlbumCoverId"] = "rbxassetid://17886929783"
-},
-["CoolTag"] = {
-	["Name"] = "cool tag",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupi",
-	["AlbumCoverId"] = "rbxassetid://98992566993893"
-},
-["Strollin"] = {
-	["Name"] = "Strollin'",
-	["Genre"] = "Lobby",
-	["Authors"] = "HumidKeyboard07",
-	["AlbumCoverId"] = "rbxassetid://18756523157"
-},
-["Bubblegum"] = {
-	["Name"] = "Bubblegum",
-	["Genre"] = "Lobby",
-	["Authors"] = "HazeEclipse",
-	["AlbumCoverId"] = "rbxassetid://92211040050219"
-},
-["CrashStep"] = {
-	["Name"] = "crash step",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "maplazalea",
-	["AlbumCoverId"] = "rbxassetid://107688793479820"
-},
-["coinslot final"] = {
-	["Name"] = "coinslot",
-	["Genre"] = "Round",
-	["Authors"] = "blxco",
-	["AlbumCoverId"] = "rbxassetid://119996435358137"
-},
-["Delivery"] = {
-	["Name"] = "Delivery",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial ",
-	["AlbumCoverId"] = "rbxassetid://112524156433419"
-},
-["MY HEART"] = {
-	["Name"] = "MY HEART",
-	["Genre"] = "Round",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://83456497517383"
-},
-["brkbtl"] = {
-	["Name"] = "brkbtl",
-	["Genre"] = "Vault",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://122324451547930"
-},
-["Snooze"] = {
-	["Name"] = "snooze",
-	["Genre"] = "Lobby",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://94718734202944"
-},
-["Love 101"] = {
-	["Name"] = "Love 101",
-	["Genre"] = "Lobby",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://119200817209147"
-},
-["well rested april"] = {
-	["Name"] = "well rested",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://96454435230466"
-},
-["dist-guitar-idea"] = {
-	["Name"] = "guitar idea",
-	["Genre"] = "Lobby",
-	["Authors"] = "relow",
-	["AlbumCoverId"] = "rbxassetid://98708486973943"
-},
-["Quick Swim"] = {
-	["Name"] = "Quick Swim",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://114561196359104"
-},
-["SeventhH6rn"] = {
-	["Name"] = "seventh h6rn",
-	["Genre"] = "Lobby",
-	["Authors"] = "vict6rrrr",
-	["AlbumCoverId"] = "rbxassetid://82048646212350"
-},
-["RecycledIntro"] = {
-	["Name"] = "Recycled Intro",
-	["Genre"] = "Round",
-	["Authors"] = "Daniel Bautista",
-	["AlbumCoverId"] = "rbxassetid://16738454738"
-},
-["Flori"] = {
-	["Name"] = "Flori",
-	["Genre"] = "Lobby",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://75359698175123"
-},
-["GroundBeef"] = {
-	["Name"] = "Ground Beef",
-	["Genre"] = "Lobby",
-	["Authors"] = "TanielCoolGuy",
-	["AlbumCoverId"] = "rbxassetid://17551134267"
-},
-["HereWeGoInst"] = {
-	["Name"] = "Here We Go(Instrumental)",
-	["Genre"] = "Round",
-	["Authors"] = "Giants of Industry",
-	["AlbumCoverId"] = "rbxassetid://16717284183"
-},
-["CombustionConundrum"] = {
-	["Name"] = "Combustion Conundrum",
-	["Genre"] = "Round",
-	["Authors"] = "myralune",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["WaitALittle"] = {
-	["Name"] = "Wait a Little",
-	["Genre"] = "Vault",
-	["Authors"] = "SpringyGN",
-	["AlbumCoverId"] = "rbxassetid://94914151423993"
-},
-["sip"] = {
-	["Name"] = "sip",
-	["Genre"] = "Lobby",
-	["Authors"] = "a1denn",
-	["AlbumCoverId"] = "rbxassetid://105483061389120"
-},
-["Disco"] = {
-	["Name"] = "disco",
-	["Genre"] = "Lobby",
-	["Authors"] = {"chuuisinsane", "ethanfiskeofficial"},
-	["AlbumCoverId"] = "rbxassetid://94718734202944"
-},
-["SpeedAddict"] = {
-	["Name"] = "Speed Addict (Remastered)",
-	["Genre"] = "Round",
-	["Authors"] = "Zdeněk Houb",
-	["AlbumCoverId"] = "rbxassetid://16736085777"
-},
-["UTG return"] = {
-	["Name"] = "RETURN",
-	["Genre"] = "Lobby",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://102334979323601"
-},
-["Extra"] = {
-	["Name"] = "Extra",
-	["Genre"] = "Round",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://117145503608204"
-},
-["Bloxy"] = {
-	["Name"] = "bloxy blox",
-	["Genre"] = "Vault",
-	["Authors"] = "kupi",
-	["AlbumCoverId"] = "rbxassetid://105835335739901"
-},
-["unknown barrier"] = {
-	["Name"] = "unknown barrier",
-	["Genre"] = "Round",
-	["Authors"] = "Albeit",
-	["AlbumCoverId"] = "rbxassetid://134621625768772"
-},
-["HipHopRemix"] = {
-	["Name"] = "Hip Hop (UTG Remix)",
-	["Genre"] = "Lobby",
-	["Authors"] = "maplazalea",
-	["AlbumCoverId"] = "rbxassetid://85345443239434"
-},
-["MusicForAFilm"] = {
-	["Name"] = "Opening Theme",
-	["Genre"] = "Round",
-	["Authors"] = "Daniel Bautista de Cabo",
-	["AlbumCoverId"] = "rbxassetid://15765293250"
-},
-["LongTimeV2"] = {
-	["Name"] = "Long Time",
-	["Genre"] = "Lobby",
-	["Authors"] = "Astraxlite",
-	["AlbumCoverId"] = "rbxassetid://109434505376799"
-},
-["fresh air41"] = {
-	["Name"] = "fresh air",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://84353096831127"
-},
-["CalmTag"] = {
-	["Name"] = "Calm Tag",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupi",
-	["AlbumCoverId"] = "rbxassetid://77558059681622"
-},
-["LazySunday"] = {
-	["Name"] = "Lazy Sunday",
-	["Genre"] = "Lobby",
-	["Authors"] = "Duncan Lamont",
-	["AlbumCoverId"] = "rbxassetid://15742181728"
-},
-["beebubum"] = {
-	["Name"] = "beebubum",
-	["Genre"] = "Round",
-	["Authors"] = "deelb",
-	["AlbumCoverId"] = "rbxassetid://98035267182191"
-},
-["PocketPal 74"] = {
-	["Name"] = "Pocket Pal",
-	["Genre"] = "Lobby",
-	["Authors"] = "Vesper",
-	["AlbumCoverId"] = "rbxassetid://123439430613287"
-},
-["Resting Time"] = {
-	["Name"] = "Resting Time",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://92055675259008"
-},
-["GET BACK HERE!!"] = {
-	["Name"] = "GET BACK HERE!!",
-	["Genre"] = "Round",
-	["Authors"] = "SalPotGuyy",
-	["AlbumCoverId"] = "rbxassetid://82967304586167"
-},
-["SixtySecondSprint"] = {
-	["Name"] = "sixty second sprint",
-	["Genre"] = "Round",
-	["Authors"] = "ryalbern",
-	["AlbumCoverId"] = "rbxassetid://114836581263621"
-},
-["QWERTYSuperCoolintheSchoolMix"] = {
-	["Name"] = "QWERTY Super Cool in the School Mix",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "patoboi",
-	["AlbumCoverId"] = "rbxassetid://82051832452453"
-},
-["die with style"] = {
-	["Name"] = "die with style",
-	["Genre"] = "Lobby",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://99366576087019"
-},
-["SkyHigh"] = {
-	["Name"] = "sky high",
-	["Genre"] = "Lobby",
-	["Authors"] = "box",
-	["AlbumCoverId"] = "rbxassetid://18778874175"
-},
-["crashout (SWOON mix)"] = {
-	["Name"] = "crashout (SWOON mix)",
-	["Genre"] = "Round",
-	["Authors"] = "sunner",
-	["AlbumCoverId"] = "rbxassetid://137763172935808"
-},
-["SturdyV2"] = {
-	["Name"] = "Sturdy",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://115872184505662"
-},
-["crashworld"] = {
-	["Name"] = "crashworld",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "sunner",
-	["AlbumCoverId"] = "rbxassetid://89586239023208"
-},
-["BetterOffAloneIntermission"] = {
-	["Name"] = "Better Off Alone (Intermission Remix)",
-	["Genre"] = "Lobby",
-	["Authors"] = "Eef_X3",
-	["AlbumCoverId"] = "rbxassetid://126111536368506"
-},
-["Hunt"] = {
-	["Name"] = "Hunt",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://81792629324758"
-},
-["CUL8trAlligator"] = {
-	["Name"] = "c u l8tr alligator",
-	["Genre"] = "Lobby",
-	["Authors"] = "fearless",
-	["AlbumCoverId"] = "rbxassetid://89700166843283"
-},
-["Hypercharge"] = {
-	["Name"] = "Hypercharge",
-	["Genre"] = "Round",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://98622773604420"
-},
-["Again"] = {
-	["Name"] = "Again",
-	["Genre"] = "Round",
-	["Authors"] = "radon",
-	["AlbumCoverId"] = "rbxassetid://123783121795321"
-},
-["pay dial"] = {
-	["Name"] = "pay dial",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://114933146954564"
-},
-["crashout (savage mix)"] = {
-	["Name"] = "crashout (savage mix)",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["WindsOfFjords"] = {
-	["Name"] = "Winds Of Fjords (minomus 2022 remaster)",
-	["Genre"] = "Infected",
-	["Authors"] = "Soft Knees",
-	["AlbumCoverId"] = "rbxassetid://15799146744"
-},
-["Chill"] = {
-	["Name"] = "crash out",
-	["Genre"] = "Lobby",
-	["Authors"] = "1nicopatty",
-	["AlbumCoverId"] = "rbxassetid://17771116085"
-},
-["Meanwhilev2"] = {
-	["Name"] = "Meanwhile",
-	["Genre"] = "Lobby",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://101596972076066"
-},
-["core"] = {
-	["Name"] = "core",
-	["Genre"] = "Round",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://101836868108815"
-},
-["keyboard demo"] = {
-	["Name"] = "keyboard demo",
-	["Genre"] = "Lobby",
-	["Authors"] = "fss",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["TheAmazingBossaNova"] = {
-	["Name"] = "Prima Bossa Nova",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Anthony Mawer",
-	["AlbumCoverId"] = "rbxassetid://15742281872"
-},
-["NoMore"] = {
-	["Name"] = "No More",
-	["Genre"] = "Lobby",
-	["Authors"] = "Dave Rosenholz",
-	["AlbumCoverId"] = "rbxassetid://15742226658"
-},
-["invernal"] = {
-	["Name"] = "invernal",
-	["Genre"] = "Round",
-	["Authors"] = "KateBuck",
-	["AlbumCoverId"] = "rbxassetid://96856305545636"
-},
-["Booming"] = {
-	["Name"] = "Booming",
-	["Genre"] = "Lobby",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://71569589498801"
-},
-["Pandemic"] = {
-	["Name"] = "Pandemic",
-	["Genre"] = "Infected",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://112786844355202"
-},
-["Samplefunk"] = {
-	["Name"] = "samplefunk",
-	["Genre"] = "Round",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://94511597124702"
-},
-["infecti ogg"] = {
-	["Name"] = "infecti",
-	["Genre"] = "Infected",
-	["Authors"] = "sprites",
-	["AlbumCoverId"] = "rbxassetid://78047943739521"
-},
-["Houce"] = {
-	["Name"] = "haus",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://18802506931"
-},
-["IDWFTD"] = {
-	["Name"] = "IDWFTD",
-	["Genre"] = "Round",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://131009573086907"
-},
-["Starstruck Supernova"] = {
-	["Name"] = "Starstruck Supernova",
-	["Genre"] = "Round",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://123596933554072"
-},
-["Fire Emblem"] = {
-	["Name"] = "fire emblem",
-	["Genre"] = "Round",
-	["Authors"] = "maplazalea",
-	["AlbumCoverId"] = "rbxassetid://81237784788515"
-},
-["crashout (geometry mix)"] = {
-	["Name"] = "crashout (geometry mix)",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["crashout (piggie mix)"] = {
-	["Name"] = "crashout (piggie mix)",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["Unfair Tagging Methods"] = {
-	["Name"] = "Unfair Tagging Methods",
-	["Genre"] = "Round",
-	["Authors"] = "kyoko",
-	["AlbumCoverId"] = "rbxassetid://107065725867527"
-},
-["blockrush"] = {
-	["Name"] = "blockrush",
-	["Genre"] = "Round",
-	["Authors"] = "Isyn_e",
-	["AlbumCoverId"] = "rbxassetid://91807742125260"
-},
-["Boomerang"] = {
-	["Name"] = "Boomerang Generic",
-	["Genre"] = "Lobby",
-	["Authors"] = "Michael Kohler",
-	["AlbumCoverId"] = "rbxassetid://17004269231"
-},
-["Subspace Subatomic"] = {
-	["Name"] = "Subspace Subatomic",
-	["Genre"] = "Round",
-	["Authors"] = "one80",
-	["AlbumCoverId"] = "rbxassetid://74330184891805"
-},
-["jazzbounce"] = {
-	["Name"] = "jazzbounce",
-	["Genre"] = "Round",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://85689461307907"
-},
-["GothicDB"] = {
-	["Name"] = "Gothic",
-	["Genre"] = "Infected",
-	["Authors"] = "Daniel Bautista",
-	["AlbumCoverId"] = "rbxassetid://16738454738"
-},
-["please hold"] = {
-	["Name"] = "please hold",
-	["Genre"] = "Lobby",
-	["Authors"] = "Epik",
-	["AlbumCoverId"] = "rbxassetid://100849289898237"
-},
-["SUNSET BREEZE"] = {
-	["Name"] = "SUNSET BREEZE",
-	["Genre"] = "Lobby",
-	["Authors"] = "AxoWave",
-	["AlbumCoverId"] = "rbxassetid://108330252915030"
-},
-["LongTimeUTG"] = {
-	["Name"] = "Long Time",
-	["Genre"] = "Vault",
-	["Authors"] = {"Astraxlite", "Tophat master"},
-	["AlbumCoverId"] = "rbxassetid://97587498441172"
-},
-["Apparition"] = {
-	["Name"] = "Apparition",
-	["Genre"] = "Infected",
-	["Authors"] = "SpringyGN",
-	["AlbumCoverId"] = "rbxassetid://18756524454"
-},
-["Horrifix"] = {
-	["Name"] = "Horrifix",
-	["Genre"] = "Infected",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://17084477076"
-},
-["what could you w6nt from me v2"] = {
-	["Name"] = "what could you w6nt from me",
-	["Genre"] = "Lobby",
-	["Authors"] = "vict6rrrr",
-	["AlbumCoverId"] = "rbxassetid://81627811461934"
-},
-["CrashOutRedRemix"] = {
-	["Name"] = "CRASHOUT REMIX",
-	["Genre"] = "Vault",
-	["Authors"] = "RedPlayzYT20",
-	["AlbumCoverId"] = "rbxassetid://136407664473191"
-},
-["HereWeGo"] = {
-	["Name"] = "Here We Go",
-	["Genre"] = "Round",
-	["Authors"] = "Giants of Industry",
-	["AlbumCoverId"] = "rbxassetid://16717284183"
-},
-["Noon"] = {
-	["Name"] = "Noon",
-	["Genre"] = "Lobby",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://83025856953804"
-},
-["They're coming"] = {
-	["Name"] = "They're coming",
-	["Genre"] = "Infected",
-	["Authors"] = "Quagorto",
-	["AlbumCoverId"] = "rbxassetid://94070610985566"
-},
-["HorridHenryJoke"] = {
-	["Name"] = "Horrid Henry",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "uglyburger0",
-	["AlbumCoverId"] = "rbxassetid://16746295491"
-},
-["Roselita"] = {
-	["Name"] = "Roselita",
-	["Genre"] = "Lobby",
-	["Authors"] = "Pierre Arvay",
-	["AlbumCoverId"] = "rbxassetid://15742173716"
-},
-["Run"] = {
-	["Name"] = "RUN!",
-	["Genre"] = "Round",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://104106902250649"
-},
-["Chill_Vote"] = {
-	["Name"] = "Chill_Vote",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://97862207974786"
-},
-["TAGDOWN"] = {
-	["Name"] = "TAGDOWN",
-	["Genre"] = "Round",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://136905124517184"
-},
-["Doodlegrounds"] = {
-	["Name"] = "Doodlegrounds",
-	["Genre"] = "Lobby",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://17059672245"
-},
-["RadicalShift"] = {
-	["Name"] = "Radical Shift",
-	["Genre"] = "Round",
-	["Authors"] = "Alberto Domínguez",
-	["AlbumCoverId"] = "rbxassetid://15742897405"
-},
-["Paused (hazerred remix)"] = {
-	["Name"] = "Paused (hazerred remix)",
-	["Genre"] = "Lobby",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://97212867874296"
-},
-["UntitledGuli"] = {
-	["Name"] = "untitled",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "kupi",
-	["AlbumCoverId"] = "rbxassetid://128322348325969"
-},
-["BossaLulluby"] = {
-	["Name"] = "Bossa Lullaby",
-	["Genre"] = "Lobby",
-	["Authors"] = "lavaa2109",
-	["AlbumCoverId"] = "rbxassetid://110006066529945"
-},
-["crash capital"] = {
-	["Name"] = "CRASH CAPITAL",
-	["Genre"] = "Round",
-	["Authors"] = "1nicopatty",
-	["AlbumCoverId"] = "rbxassetid://94752706610851"
-},
-["BLOCKBUSTER"] = {
-	["Name"] = "BLOCKBUSTER",
-	["Genre"] = "Lobby",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://139588262325485"
-},
-["DrumFreak"] = {
-	["Name"] = "Drum Freak",
-	["Genre"] = "Vault",
-	["Authors"] = "VAVS",
-	["AlbumCoverId"] = "rbxassetid://121426053123012"
-},
-["PWNED"] = {
-	["Name"] = "PWNED",
-	["Genre"] = "Round",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://108370511670335"
-},
-["Escapists"] = {
-	["Name"] = "Escapists",
-	["Genre"] = "Round",
-	["Authors"] = "Albeit",
-	["AlbumCoverId"] = "rbxassetid://15464090883"
-},
-["KnockKnock"] = {
-	["Name"] = "knock, knock!",
-	["Genre"] = "Lobby",
-	["Authors"] = "nicopatty",
-	["AlbumCoverId"] = "rbxassetid://102713179539662"
-},
-["Soon2be"] = {
-	["Name"] = "Soon2be.wav",
-	["Genre"] = "Lobby",
-	["Authors"] = "Albeit",
-	["AlbumCoverId"] = "rbxassetid://15464090883"
-},
-["cloud9"] = {
-	["Name"] = "cloud9",
-	["Genre"] = "Lobby",
-	["Authors"] = "eyevi",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["MACH"] = {
-	["Name"] = "MACH",
-	["Genre"] = "Round",
-	["Authors"] = "eyevi",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["Slashout"] = {
-	["Name"] = "Slashout",
-	["Genre"] = "HorrorAprilFools",
-	["Authors"] = {"Astraxlite", "O9o"},
-	["AlbumCoverId"] = "rbxassetid://127512193379716"
-},
-["Sweat_Time_V4"] = {
-	["Name"] = "Sweat Time",
-	["Genre"] = "Round",
-	["Authors"] = "FORSE54",
-	["AlbumCoverId"] = "rbxassetid://83175107875375"
-},
-["gnosis"] = {
-	["Name"] = "gnosis",
-	["Genre"] = "Lobby",
-	["Authors"] = "eyevi",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["CRASHOUT BUT FUNKY"] = {
-	["Name"] = "CRASHOUT BUT FUNKY",
-	["Genre"] = "Lobby",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://116105270717565"
-},
-["Neutron"] = {
-	["Name"] = "Neutron",
-	["Genre"] = "Round",
-	["Authors"] = {"nyr", "one80"},
-	["AlbumCoverId"] = "rbxassetid://82466120620727"
-},
-["HorridHenry"] = {
-	["Name"] = "Horrid Henry",
-	["Genre"] = "Round",
-	["Authors"] = "uglyburger0",
-	["AlbumCoverId"] = "rbxassetid://16746295491"
-},
-["HorrifixRemix"] = {
-	["Name"] = "Horrifix (remix)",
-	["Genre"] = "CombatInitiation",
-	["Authors"] = {"MysticNuggets", "Combat Initiation"},
-	["AlbumCoverId"] = "rbxassetid://18631039265"
-},
-["QWERTYhousemix"] = {
-	["Name"] = "QWERTY house mix",
-	["Genre"] = "Lobby",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://94718734202944"
-},
-["necradia"] = {
-	["Name"] = "necradia",
-	["Genre"] = "Infected",
-	["Authors"] = "KateBuck",
-	["AlbumCoverId"] = "rbxassetid://100230644187036"
-},
-["crashout kompa mix"] = {
-	["Name"] = "crashout kompa mix",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "thediskyremixer",
-	["AlbumCoverId"] = "rbxassetid://85500590911015"
-},
-["Milky Ways"] = {
-	["Name"] = "Milky Ways",
-	["Genre"] = "Round",
-	["Authors"] = "sunner",
-	["AlbumCoverId"] = "rbxassetid://77867219892249"
-},
-["Fl6xOnYa"] = {
-	["Name"] = "fl6x on ya",
-	["Genre"] = "Lobby",
-	["Authors"] = "vict6rrrr",
-	["AlbumCoverId"] = "rbxassetid://127282641398779"
-},
-["crush!"] = {
-	["Name"] = "crush!",
-	["Genre"] = "Lobby",
-	["Authors"] = "azalea",
-	["AlbumCoverId"] = "rbxassetid://102931897711245"
-},
-["Selection (Albeit Remix)"] = {
-	["Name"] = "Selection (Albeit Remix)",
-	["Genre"] = "Round",
-	["Authors"] = "Albeit",
-	["AlbumCoverId"] = "rbxassetid://99963326832826"
-},
-["skip-hop"] = {
-	["Name"] = "skip-hop",
-	["Genre"] = "Round",
-	["Authors"] = {"shaddinaround", "maplazalea"},
-	["AlbumCoverId"] = "rbxassetid://100362377897283"
-},
-["KEEP UP"] = {
-	["Name"] = "KEEP UP",
-	["Genre"] = "Round",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://71789071881011"
-},
-["g6in_down"] = {
-	["Name"] = "g6in down",
-	["Genre"] = "Lobby",
-	["Authors"] = "vict6rrrr",
-	["AlbumCoverId"] = "rbxassetid://78373434867282"
-},
-["Intervention"] = {
-	["Name"] = "Intervention",
-	["Genre"] = "Round",
-	["Authors"] = "Albeit",
-	["AlbumCoverId"] = "rbxassetid://128139382936522"
-},
-["First Date"] = {
-	["Name"] = "First Date",
-	["Genre"] = "Lobby",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://134397682197963"
-},
-["Blossom"] = {
-	["Name"] = "Blossom",
-	["Genre"] = "Round",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://75359698175123"
-},
-["Pluhlifluous"] = {
-	["Name"] = "Mellifluous",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "JJLev",
-	["AlbumCoverId"] = "rbxassetid://125552569698273"
-},
-["ChillEndless"] = {
-	["Name"] = "crash out",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "1nicopatty",
-	["AlbumCoverId"] = "rbxassetid://17771116085"
-},
-["one last route"] = {
-	["Name"] = "one last route",
-	["Genre"] = "Round",
-	["Authors"] = "hunnmag",
-	["AlbumCoverId"] = "rbxassetid://125763041516391"
-},
-["crashout tag mix"] = {
-	["Name"] = "crashout tag mix",
-	["Genre"] = "Round",
-	["Authors"] = "SiIvaGunner",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["her p6rents hate me"] = {
-	["Name"] = "her p6rents hate me",
-	["Genre"] = "Lobby",
-	["Authors"] = "vict6rrrr",
-	["AlbumCoverId"] = "rbxassetid://81627811461934"
-},
-["i just wanna know"] = {
-	["Name"] = "i just wanna know",
-	["Genre"] = "Round",
-	["Authors"] = "jeko",
-	["AlbumCoverId"] = "rbxassetid://76961564855559"
-},
-["Trendy In 2025"] = {
-	["Name"] = "Trendy In 2025",
-	["Genre"] = "Lobby",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://99461988961613"
-},
-["CoffeeBreak"] = {
-	["Name"] = "Coffee Break",
-	["Genre"] = "Lobby",
-	["Authors"] = {"Irving Marin", "Brian Dee"},
-	["AlbumCoverId"] = "rbxassetid://15742261786"
-},
-["crashout (utg mix)"] = {
-	["Name"] = "crashout (utg mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["Worlds richest honey"] = {
-	["Name"] = "Worlds richest honey",
-	["Genre"] = "Round",
-	["Authors"] = "eyevi",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["MULE"] = {
-	["Name"] = "M.U.L.E. (Bitblaster Mix)",
-	["Genre"] = "Round",
-	["Authors"] = "Roy Glover",
-	["AlbumCoverId"] = "rbxassetid://15742898613"
-},
-["Changes"] = {
-	["Name"] = "Changes",
-	["Genre"] = "Round",
-	["Authors"] = {"jammed", "hazerred"},
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["RAGTIME BADTIME"] = {
-	["Name"] = "RAGTIME BADTIME",
-	["Genre"] = "Round",
-	["Authors"] = "coμl",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["firepower"] = {
-	["Name"] = "firepower",
-	["Genre"] = "Round",
-	["Authors"] = "one80",
-	["AlbumCoverId"] = "rbxassetid://84974468189014"
-},
-["Reconstruct"] = {
-	["Name"] = "Reconstruct",
-	["Genre"] = "Lobby",
-	["Authors"] = "uglyburger0",
-	["AlbumCoverId"] = "rbxassetid://16746295491"
-},
-["Show Time!"] = {
-	["Name"] = "Show Time!",
-	["Genre"] = "Round",
-	["Authors"] = "PCX",
-	["AlbumCoverId"] = "rbxassetid://132086003520230"
-},
-["crashout (sus mix)"] = {
-	["Name"] = "crashout (sus mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["SpookyOut"] = {
-	["Name"] = "spooky out",
-	["Genre"] = "Hallows2024",
-	["Authors"] = "kupi",
-	["AlbumCoverId"] = "rbxassetid://97233756951502"
-},
-["voxel"] = {
-	["Name"] = "voxel",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://101452785967635"
-},
-["First We Run"] = {
-	["Name"] = "First We Run",
-	["Genre"] = "Round",
-	["Authors"] = "KONNOR",
-	["AlbumCoverId"] = "rbxassetid://107894813707862"
-},
-["as of cyclones"] = {
-	["Name"] = "as of cyclones",
-	["Genre"] = "Round",
-	["Authors"] = "rockblade_e",
-	["AlbumCoverId"] = "rbxassetid://71811907137177"
-},
-["past that"] = {
-	["Name"] = "past that",
-	["Genre"] = "Lobby",
-	["Authors"] = "deet",
-	["AlbumCoverId"] = "rbxassetid://16851321113"
-},
-["crashout (kevin mix)"] = {
-	["Name"] = "crashout (kevin mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["Budget Crash"] = {
-	["Name"] = "Budget Crash",
-	["Genre"] = "Vault",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://82175046036967"
-},
-["LURKING"] = {
-	["Name"] = "Lurking",
-	["Genre"] = "Round",
-	["Authors"] = "foamzers",
-	["AlbumCoverId"] = "rbxassetid://100396478971290"
-},
-["ROFL"] = {
-	["Name"] = "ROFL",
-	["Genre"] = "Round",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://119871120891051"
-},
-["Juggernaut"] = {
-	["Name"] = "Juggernaut",
-	["Genre"] = "Round",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://17059694215"
-},
-["PIZZA"] = {
-	["Name"] = "PIZZA",
-	["Genre"] = "Round",
-	["Authors"] = "FORSE54",
-	["AlbumCoverId"] = "rbxassetid://77520115529135"
-},
-["hard candy"] = {
-	["Name"] = "hard candy",
-	["Genre"] = "Round",
-	["Authors"] = "peuku",
-	["AlbumCoverId"] = "rbxassetid://92423433724697"
-},
-["Looping_Lights"] = {
-	["Name"] = "Looping Lights",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://103739413615476"
-},
-["3UPHORIA."] = {
-	["Name"] = "3UPHORIA.",
-	["Genre"] = "Lobby",
-	["Authors"] = "dxstrxcted",
-	["AlbumCoverId"] = "rbxassetid://73913616469946"
-},
-["rosani"] = {
-	["Name"] = "rosani",
-	["Genre"] = "Lobby",
-	["Authors"] = "FORSE54",
-	["AlbumCoverId"] = "rbxassetid://102102546205828"
-},
-["Woodblocks"] = {
-	["Name"] = "Woodblocks",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://107651563981754"
-},
-["flurry"] = {
-	["Name"] = "Flurry",
-	["Genre"] = "Round",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://79391272116641"
-},
-["TOTEHMOON"] = {
-	["Name"] = "TO TEH MOON",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://116287624322315"
-},
-["stardust"] = {
-	["Name"] = "stardust",
-	["Genre"] = "Lobby",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://99393386190879"
-},
-["Crash Capital (hazerred remix)"] = {
-	["Name"] = "Crash Capital (hazerred remix)",
-	["Genre"] = "Round",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://94752706610851"
-},
-["KingsNightmare"] = {
-	["Name"] = "King's Nightmare",
-	["Genre"] = "Round",
-	["Authors"] = "ElSuperDuperTails",
-	["AlbumCoverId"] = "rbxassetid://18756524242"
-},
-["Tumble Crumble"] = {
-	["Name"] = "Tumble Crumble",
-	["Genre"] = "Round",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://107737925579759"
-},
-["silly"] = {
-	["Name"] = "silly",
-	["Genre"] = "Lobby",
-	["Authors"] = "sally",
-	["AlbumCoverId"] = "rbxassetid://86636522023302"
-},
-["Chezburber"] = {
-	["Name"] = "Chezburger",
-	["Genre"] = "Round",
-	["Authors"] = "Sticky",
-	["AlbumCoverId"] = "rbxassetid://121747312140327"
-},
-["runaway2"] = {
-	["Name"] = "runaway (Astraxlite mix)",
-	["Genre"] = "Vault",
-	["Authors"] = "Astraxlite",
-	["AlbumCoverId"] = "rbxassetid://81540265258736"
-},
-["knick-knackin"] = {
-	["Name"] = "knick-knackin",
-	["Genre"] = "Round",
-	["Authors"] = "bukket",
-	["AlbumCoverId"] = "rbxassetid://72246386919329"
-},
-["TownTalk"] = {
-	["Name"] = "Town Talk",
-	["Genre"] = "Lobby",
-	["Authors"] = "Gerhard Narholz",
-	["AlbumCoverId"] = "rbxassetid://15785396907"
-},
-["lov"] = {
-	["Name"] = "lov",
-	["Genre"] = "Lobby",
-	["Authors"] = "KateBuck",
-	["AlbumCoverId"] = "rbxassetid://71890362281315"
-},
-["Takeover"] = {
-	["Name"] = "takeover",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupi",
-	["AlbumCoverId"] = "rbxassetid://79584643607592"
-},
-["Diamonds"] = {
-	["Name"] = "Diamonds",
-	["Genre"] = "Lobby",
-	["Authors"] = "Friedrich Kruntorad",
-	["AlbumCoverId"] = "rbxassetid://15742216161"
-},
-["Python"] = {
-	["Name"] = "python",
-	["Genre"] = "Lobby",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://93951782693737"
-},
-["Gothic"] = {
-	["Name"] = "Gothic",
-	["Genre"] = "Infected",
-	["Authors"] = "zero-project",
-	["AlbumCoverId"] = "rbxassetid://15799197690"
-},
-["WiiOut"] = {
-	["Name"] = "wii out",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://93336445304452"
-},
-["UTGAprilFools"] = {
-	["Name"] = "you're it",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "toastywav",
-	["AlbumCoverId"] = "rbxassetid://128814535178280"
-},
-["Vivid"] = {
-	["Name"] = "vivid",
-	["Genre"] = "Lobby",
-	["Authors"] = {"edyn", "chuuisinsane"},
-	["AlbumCoverId"] = "rbxassetid://15464090883"
-},
-["SillyPop"] = {
-	["Name"] = "Silly Pop",
-	["Genre"] = "Lobby",
-	["Authors"] = "TanielCoolGuy",
-	["AlbumCoverId"] = "rbxassetid://15753383894"
-},
-["wowzers!"] = {
-	["Name"] = "wowzers!",
-	["Genre"] = "Lobby",
-	["Authors"] = "retro",
-	["AlbumCoverId"] = "rbxassetid://97190940453660"
-},
-["Projection"] = {
-	["Name"] = "Projection",
-	["Genre"] = "Vault",
-	["Authors"] = "SpringyGN",
-	["AlbumCoverId"] = "rbxassetid://95484803908874"
-},
-["daydream"] = {
-	["Name"] = "daydream",
-	["Genre"] = "Lobby",
-	["Authors"] = "Green",
-	["AlbumCoverId"] = "rbxassetid://130332944582262"
-},
-["crashout plugg mixxxing"] = {
-	["Name"] = "crashout (plugg mix) ",
-	["Genre"] = "Lobby",
-	["Authors"] = "keybomber",
-	["AlbumCoverId"] = "rbxassetid://78250316178763"
-},
-["TaggedNight"] = {
-	["Name"] = "Tagged Night",
-	["Genre"] = "Lobby",
-	["Authors"] = "Turbotical",
-	["AlbumCoverId"] = "rbxassetid://17590193804"
-},
-["bossa blues"] = {
-	["Name"] = "bossa blues",
-	["Genre"] = "Lobby",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://104568293744685"
-},
-["borin'"] = {
-	["Name"] = "borin'",
-	["Genre"] = "Lobby",
-	["Authors"] = "KateBuck",
-	["AlbumCoverId"] = "rbxassetid://137526944120429"
-},
-["blue n6tes"] = {
-	["Name"] = "blue n6tes",
-	["Genre"] = "Lobby",
-	["Authors"] = "vict6rrrr",
-	["AlbumCoverId"] = "rbxassetid://81627811461934"
-},
-["bloxycola theme"] = {
-	["Name"] = "bloxycola theme",
-	["Genre"] = "Vault",
-	["Authors"] = "sally",
-	["AlbumCoverId"] = "rbxassetid://96369802847033"
-},
-["at your convenience updated"] = {
-	["Name"] = "at your c6nvenience",
-	["Genre"] = "Lobby",
-	["Authors"] = "vict6rrrr",
-	["AlbumCoverId"] = "rbxassetid://81627811461934"
-},
-["Sussy Seconds"] = {
-	["Name"] = "Final Seconds",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Quagorto",
-	["AlbumCoverId"] = "rbxassetid://135130137941475"
-},
-["crashout (rainbow mix)"] = {
-	["Name"] = "crashout (rainbow mix)",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["Worse when Together"] = {
-	["Name"] = "Worse when Together",
-	["Genre"] = "Round",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://134571206658058"
-},
-["Wait a Little V2"] = {
-	["Name"] = "Wait a Little",
-	["Genre"] = "Lobby",
-	["Authors"] = "SpringyGN",
-	["AlbumCoverId"] = "rbxassetid://71360532368370"
-},
-["walk in the park"] = {
-	["Name"] = "walk in the park",
-	["Genre"] = "Lobby",
-	["Authors"] = "Green",
-	["AlbumCoverId"] = "rbxassetid://95903451375349"
-},
-["Clouds"] = {
-	["Name"] = "Clouds",
-	["Genre"] = "Round",
-	["Authors"] = "nyr",
-	["AlbumCoverId"] = "rbxassetid://123229997323564"
-},
-["SnakesNTaggersAprilFools"] = {
-	["Name"] = "snakes n' taggers",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "maplazalea",
-	["AlbumCoverId"] = "rbxassetid://91210801515209"
-},
-["COLA"] = {
-	["Name"] = "COLA",
-	["Genre"] = "Round",
-	["Authors"] = "jayy",
-	["AlbumCoverId"] = "rbxassetid://85889308048785"
-},
-["Sweat time quagmix"] = {
-	["Name"] = "Sweat Time Quagmix",
-	["Genre"] = "Round",
-	["Authors"] = "Quagorto",
-	["AlbumCoverId"] = "rbxassetid://72248945625692"
-},
-["szn"] = {
-	["Name"] = "chromatic",
-	["Genre"] = "Round",
-	["Authors"] = "one80",
-	["AlbumCoverId"] = "rbxassetid://140434889691045"
-},
-["SurvivalV2"] = {
-	["Name"] = "Survival",
-	["Genre"] = "Round",
-	["Authors"] = "FORSE54",
-	["AlbumCoverId"] = "rbxassetid://107824805936332"
-},
-["Thursday"] = {
-	["Name"] = "thursday",
-	["Genre"] = "Lobby",
-	["Authors"] = {"killmiri", "nicopatty"},
-	["AlbumCoverId"] = "rbxassetid://18802471575"
-},
-["Simple Enough."] = {
-	["Name"] = "Simple Enough.",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://104173955156830"
-},
-["wait"] = {
-	["Name"] = "wait",
-	["Genre"] = "Lobby",
-	["Authors"] = "lavaa2109",
-	["AlbumCoverId"] = "rbxassetid://122181838883250"
-},
-["PWNEDHallowsMix"] = {
-	["Name"] = "PWNED (hallows mix)",
-	["Genre"] = "Hallows2024",
-	["Authors"] = {"maplazalea", "shaddinaround"},
-	["AlbumCoverId"] = "rbxassetid://103997827922228"
-},
-["Recurrence"] = {
-	["Name"] = "Recurrence",
-	["Genre"] = "Vault",
-	["Authors"] = "JJlev",
-	["AlbumCoverId"] = "rbxassetid://132356390705391"
-},
-["ignition"] = {
-	["Name"] = "ignition",
-	["Genre"] = "Vault",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://76967806187653"
-},
-["Above the wonders"] = {
-	["Name"] = "Above the wonders",
-	["Genre"] = "Lobby",
-	["Authors"] = "reverse_incident2",
-	["AlbumCoverId"] = "rbxassetid://117848911761806"
-},
-["Just a minute"] = {
-	["Name"] = "Just a minute",
-	["Genre"] = "Lobby",
-	["Authors"] = "impersonatum",
-	["AlbumCoverId"] = "rbxassetid://111774695866670"
-},
-["Investigation"] = {
-	["Name"] = "Investigation",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://126728646183966"
-},
-["TagBeat"] = {
-	["Name"] = "tag beat",
-	["Genre"] = "Lobby",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://134559972012196"
-},
-["Humbly Bumbly Night"] = {
-	["Name"] = "Humbly Bumbly Night",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://132441307028789"
-},
-["EPIK!!!"] = {
-	["Name"] = "EPIK!!!",
-	["Genre"] = "Round",
-	["Authors"] = "bukket",
-	["AlbumCoverId"] = "rbxassetid://75521693392395"
-},
-["phonkout"] = {
-	["Name"] = "phonk out",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://88500724940584"
-},
-["DialTrialV2"] = {
-	["Name"] = "Dial Trial",
-	["Genre"] = "Round",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://95838127516369"
-},
-["Cute"] = {
-	["Name"] = "Cute",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://91664346999813"
-},
-["Crown of the Sunset"] = {
-	["Name"] = "Crown of the Sunset",
-	["Genre"] = "Lobby",
-	["Authors"] = "JJlev",
-	["AlbumCoverId"] = "rbxassetid://122575937677866"
-},
-["Core Quagmix"] = {
-	["Name"] = "Core Quagmix",
-	["Genre"] = "Round",
-	["Authors"] = "Quagorto",
-	["AlbumCoverId"] = "rbxassetid://101691567434276"
-},
-["Cautious! (hazerred remix)"] = {
-	["Name"] = "Cautious! (hazerred remix)",
-	["Genre"] = "Round",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://71876351808857"
-},
-["tagemall41"] = {
-	["Name"] = "tag em all",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://140687333240323"
-},
-["Unpaused love"] = {
-	["Name"] = "Unpaused love",
-	["Genre"] = "Lobby",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://133125328720496"
-},
-["Boombox"] = {
-	["Name"] = "Boombox",
-	["Genre"] = "Lobby",
-	["Authors"] = "Quagorto",
-	["AlbumCoverId"] = "rbxassetid://89042705123014"
-},
-["B0MBExtended"] = {
-	["Name"] = "B0MB!!",
-	["Genre"] = "Round",
-	["Authors"] = "RedPlayzYT20",
-	["AlbumCoverId"] = "rbxassetid://18756523157"
-},
-["TheGreatCatastrophe"] = {
-	["Name"] = "the great catastrophe",
-	["Genre"] = "Hallows2024",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://139482492929063"
-},
-["LifeInAnElevator"] = {
-	["Name"] = "Life in an Elevator",
-	["Genre"] = "Lobby",
-	["Authors"] = "KPM Main",
-	["AlbumCoverId"] = "rbxassetid://18868734840"
-},
-["DialTrial"] = {
-	["Name"] = "Dial Trial",
-	["Genre"] = "Vault",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://115850344625106"
-},
-["farg yeah ghee"] = {
-	["Name"] = "farg yeah ghee",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "6TARLUVA",
-	["AlbumCoverId"] = "rbxassetid://86573311195066"
-},
-["CrownChaser"] = {
-	["Name"] = "Crown Chaser",
-	["Genre"] = "Vault",
-	["Authors"] = "Xmanta3",
-	["AlbumCoverId"] = "rbxassetid://112395881149636"
-},
-["MAXVELOCITY"] = {
-	["Name"] = "MAXVELOCITY",
-	["Genre"] = "Round",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://87000989469213"
-},
-["WATCH OUT"] = {
-	["Name"] = "WATCH OUT",
-	["Genre"] = "Vault",
-	["Authors"] = "VAVS",
-	["AlbumCoverId"] = "rbxassetid://127494161891502"
-},
-["PacketPower"] = {
-	["Name"] = "Packet Power",
-	["Genre"] = "Round",
-	["Authors"] = "Solaris",
-	["AlbumCoverId"] = "rbxassetid://15742951891"
-},
-["crashout (miku mix)"] = {
-	["Name"] = "crashout (miku mix)",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["crashout overdose"] = {
-	["Name"] = "crashout overdose",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "'Funki_, The Untitled Musicians",
-	["AlbumCoverId"] = "rbxassetid://115849716451720"
-},
-["King"] = {
-	["Name"] = "king",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Green",
-	["AlbumCoverId"] = "rbxassetid://130332944582262"
-},
-["OnBoard"] = {
-	["Name"] = "On Board",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://92976486671158"
-},
-["CRASHPARTY"] = {
-	["Name"] = "CRASHPARTY",
-	["Genre"] = "Round",
-	["Authors"] = "maplazalea",
-	["AlbumCoverId"] = "rbxassetid://84271450608596"
-},
-["Another Planet"] = {
-	["Name"] = "Another Planet",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://120376589804539"
-},
-["Dominator"] = {
-	["Name"] = "Dominator",
-	["Genre"] = "Round",
-	["Authors"] = {"FORSE54", "kupiofficial"},
-	["AlbumCoverId"] = "rbxassetid://92299888857899"
-},
-["Bloxiade41"] = {
-	["Name"] = "Bloxiade",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://76094541493890"
-},
-["Sweat_Time_41"] = {
-	["Name"] = "Sweat Time V4",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "FORSE54",
-	["AlbumCoverId"] = "rbxassetid://83175107875375"
-},
-["picnic"] = {
-	["Name"] = "picnic",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://113851067404841"
-},
-["Cautious"] = {
-	["Name"] = "Cautious",
-	["Genre"] = "Round",
-	["Authors"] = "FORSE54",
-	["AlbumCoverId"] = "rbxassetid://71122058685290"
-},
-["Projection41"] = {
-	["Name"] = "Projection",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "SpringyGN",
-	["AlbumCoverId"] = "rbxassetid://95484803908874"
-},
-["Love Forecaster"] = {
-	["Name"] = "Love Forecaster",
-	["Genre"] = "Lobby",
-	["Authors"] = "box",
-	["AlbumCoverId"] = "rbxassetid://139148024441870"
-},
-["speedy coil"] = {
-	["Name"] = "speedy coil",
-	["Genre"] = "Round",
-	["Authors"] = "KeihBuck",
-	["AlbumCoverId"] = "rbxassetid://107606113278116"
-},
-["Drum N' Bazz N' Bass"] = {
-	["Name"] = "Drum N' Bazz N' Bass",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://102496586708657"
-},
-["PWNEDGT"] = {
-	["Name"] = "PWNED",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://137169406095533"
-},
-["Subspace Subvert"] = {
-	["Name"] = "Subspace Subvert",
-	["Genre"] = "Round",
-	["Authors"] = "one80",
-	["AlbumCoverId"] = "rbxassetid://83953386000082"
-},
-["Mlem"] = {
-	["Name"] = "Mlem",
-	["Genre"] = "Round",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://71963777191884"
-},
-["crashout (happy mix)"] = {
-	["Name"] = "crashout (happy mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["crashout (doodle mix)"] = {
-	["Name"] = "crashout (doodle mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["BreakLoose"] = {
-	["Name"] = "Break Loose",
-	["Genre"] = "Round",
-	["Authors"] = "Albeit",
-	["AlbumCoverId"] = "rbxassetid://123577011355452"
-},
-["Midnight"] = {
-	["Name"] = "midnight",
-	["Genre"] = "Round",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://94718734202944"
-},
-["Selection"] = {
-	["Name"] = "Selection",
-	["Genre"] = "Lobby",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://89824472164798"
-},
-["Intro"] = {
-	["Name"] = "Intro",
-	["Genre"] = "Lobby",
-	["Authors"] = "Daniel Bautista",
-	["AlbumCoverId"] = "rbxassetid://16738454738"
-},
-["clock in april fools"] = {
-	["Name"] = "clock in",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "JJlev",
-	["AlbumCoverId"] = "rbxassetid://86573311195066"
-},
-["AprilFoolsNoon"] = {
-	["Name"] = "Noon",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://83025856953804"
-},
-["robloxjersey"] = {
-	["Name"] = "roblox jersey",
-	["Genre"] = "Lobby",
-	["Authors"] = "nicopatty",
-	["AlbumCoverId"] = "rbxassetid://102439783808016"
-},
-["crashout r&b master"] = {
-	["Name"] = "crashout r&b",
-	["Genre"] = "Round",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://106745151540510"
-},
-["toylandia"] = {
-	["Name"] = "t6ylandia",
-	["Genre"] = "Lobby",
-	["Authors"] = "vict6rrrr",
-	["AlbumCoverId"] = "rbxassetid://138408927399297"
-},
-["timebomb express yahhhhh"] = {
-	["Name"] = "timebomb express",
-	["Genre"] = "Vault",
-	["Authors"] = "Epik",
-	["AlbumCoverId"] = "rbxassetid://129749166211171"
-},
-["HorrorOg"] = {
-	["Name"] = "????",
-	["Genre"] = "Horror",
-	["Authors"] = "????",
-	["AlbumCoverId"] = "rbxassetid://113252732"
-},
-["caffeine rush"] = {
-	["Name"] = "caffeine rush",
-	["Genre"] = "Round",
-	["Authors"] = "box",
-	["AlbumCoverId"] = "rbxassetid://86707889030331"
-},
-["haus master"] = {
-	["Name"] = "haus",
-	["Genre"] = "Round",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://99237688991611"
-},
-["Nova"] = {
-	["Name"] = "Nova",
-	["Genre"] = "Lobby",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://93309564969087"
-},
-["clock in"] = {
-	["Name"] = "clock in",
-	["Genre"] = "Lobby",
-	["Authors"] = "JJlev",
-	["AlbumCoverId"] = "rbxassetid://86573311195066"
-},
-["PICK A CARD"] = {
-	["Name"] = "PICK A CARD",
-	["Genre"] = "Lobby",
-	["Authors"] = "VAVS",
-	["AlbumCoverId"] = "rbxassetid://71664437394996"
-},
-["PlaygroundOfTheStars"] = {
-	["Name"] = "Playground of the Stars",
-	["Genre"] = "Lobby",
-	["Authors"] = "Richard Walter",
-	["AlbumCoverId"] = "rbxassetid://15742242901"
-},
-["OG"] = {
-	["Name"] = "OG",
-	["Genre"] = "Vault",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://74015625341265"
-},
-["After Hours"] = {
-	["Name"] = "After Hours",
-	["Genre"] = "Lobby",
-	["Authors"] = {"Conveild", "Quagorto"},
-	["AlbumCoverId"] = "rbxassetid://71068485436792"
-},
-["Lunar Transfuge"] = {
-	["Name"] = "Lunar Transfuge",
-	["Genre"] = "Round",
-	["Authors"] = "Albeit",
-	["AlbumCoverId"] = "rbxassetid://111287780367491"
-},
-["Tag Shift"] = {
-	["Name"] = "Tag Shift",
-	["Genre"] = "Vault",
-	["Authors"] = "MysticNuggets",
-	["AlbumCoverId"] = "rbxassetid://87752736623855"
-},
-["Keep it simple"] = {
-	["Name"] = "Keep it simple",
-	["Genre"] = "Lobby",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://83946241213192"
-},
-["crashout yokai mix"] = {
-	["Name"] = "crashout yokai mix",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "simlirity",
-	["AlbumCoverId"] = "rbxassetid://86573311195066"
-},
-["runners theme"] = {
-	["Name"] = "runners theme",
-	["Genre"] = "Lobby",
-	["Authors"] = "Esbee",
-	["AlbumCoverId"] = "rbxassetid://128006967338289"
-},
-["Bloxiade"] = {
-	["Name"] = "Bloxiade",
-	["Genre"] = "Round",
-	["Authors"] = "O9o",
-	["AlbumCoverId"] = "rbxassetid://76094541493890"
-},
-["training day rmx"] = {
-	["Name"] = "Training Day (UTG Remix)",
-	["Genre"] = "Lobby",
-	["Authors"] = "maplazalea",
-	["AlbumCoverId"] = "rbxassetid://92667498467934"
-},
-["tagemall"] = {
-	["Name"] = "tag em all",
-	["Genre"] = "Round",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://140687333240323"
-},
-["noob_alert_utg_mix"] = {
-	["Name"] = "noob alert utg mix",
-	["Genre"] = "Vault",
-	["Authors"] = "shaddinaround",
-	["AlbumCoverId"] = "rbxassetid://96361275498074"
-},
-["alert"] = {
-	["Name"] = "alert",
-	["Genre"] = "Lobby",
-	["Authors"] = "kupiofficial",
-	["AlbumCoverId"] = "rbxassetid://119430515010462"
-},
-["telecaster"] = {
-	["Name"] = "telecaster",
-	["Genre"] = "Round",
-	["Authors"] = {"hazerred", "palm"},
-	["AlbumCoverId"] = "rbxassetid://74656728206905"
-},
-["MuleBloxblaster"] = {
-	["Name"] = "M.U.L.E. (Bloxblaster Remix)",
-	["Genre"] = "Round",
-	["Authors"] = "maplazalea",
-	["AlbumCoverId"] = "rbxassetid://95783381800797"
-},
-["Slide"] = {
-	["Name"] = "slide",
-	["Genre"] = "Round",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://94718734202944"
-},
-["crashout (Running Mix)"] = {
-	["Name"] = "crashout (Running Mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["UnfinishedBusiness"] = {
-	["Name"] = "Unfinished Business",
-	["Genre"] = "Hallows2024",
-	["Authors"] = "mateotrox",
-	["AlbumCoverId"] = "rbxassetid://96916695342837"
-},
-["Bossa"] = {
-	["Name"] = "bossa",
-	["Genre"] = "Round",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://94718734202944"
-},
-["GoLong"] = {
-	["Name"] = "go long",
-	["Genre"] = "Round",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://129329324236067"
-},
-["Bubbles"] = {
-	["Name"] = "bubbles",
-	["Genre"] = "Lobby",
-	["Authors"] = "hazerred",
-	["AlbumCoverId"] = "rbxassetid://139269218476222"
-},
-["Survival"] = {
-	["Name"] = "Survival",
-	["Genre"] = "Vault",
-	["Authors"] = "FORSE54",
-	["AlbumCoverId"] = "rbxassetid://70401847140178"
-},
-["Lobombtomy"] = {
-	["Name"] = "B0MB!!",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "RedPlayzYT20",
-	["AlbumCoverId"] = "rbxassetid://131259117354312"
-},
-["SaturdaySerenade"] = {
-	["Name"] = "Saturday Swinging Serenade",
-	["Genre"] = "Lobby",
-	["Authors"] = {"ntcynn", "Gemtin"},
-	["AlbumCoverId"] = "rbxassetid://17590208521"
-},
-["Hazard"] = {
-	["Name"] = "Hazard",
-	["Genre"] = "Infected",
-	["Authors"] = {"FORSE54", "kupiofficial"},
-	["AlbumCoverId"] = "rbxassetid://121148677955516"
-},
-["HumbleBumble"] = {
-	["Name"] = "Humble Bumble",
-	["Genre"] = "Lobby",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://72828812368944"
-},
-["SmoothNylons"] = {
-	["Name"] = "Smooth Nylons",
-	["Genre"] = "Lobby",
-	["Authors"] = "Kenny Salmon",
-	["AlbumCoverId"] = "rbxassetid://15742296019"
-},
-["Final Seconds"] = {
-	["Name"] = "Final Seconds",
-	["Genre"] = "Round",
-	["Authors"] = "Quagorto",
-	["AlbumCoverId"] = "rbxassetid://135130137941475"
-},
-["Contaminate"] = {
-	["Name"] = "Contaminate",
-	["Genre"] = "Vault",
-	["Authors"] = "silhouette_mann",
-	["AlbumCoverId"] = "rbxassetid://72100028520023"
-},
-["YouWinAgain"] = {
-	["Name"] = "you win again",
-	["Genre"] = "Lobby",
-	["Authors"] = "Vehiculer sSpamton",
-	["AlbumCoverId"] = "rbxassetid://106083726512993"
-},
-["crashout (Whats Mix)"] = {
-	["Name"] = "crashout (Whats Mix)",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
-},
-["Askewed"] = {
-	["Name"] = "Askewed",
-	["Genre"] = "Round",
-	["Authors"] = "ButIneedkarma",
-	["AlbumCoverId"] = "rbxassetid://77346734352129"
-},
-["RelaxationChill"] = {
-	["Name"] = "Chill",
-	["Genre"] = "Lobby",
-	["Authors"] = "FORSE54",
-	["AlbumCoverId"] = "rbxassetid://131107407574432"
-},
-["iridescent"] = {
-	["Name"] = "iridescent",
-	["Genre"] = "Round",
-	["Authors"] = "one80",
-	["AlbumCoverId"] = "rbxassetid://90930428033316"
-},
-["Horde"] = {
-	["Name"] = "horde",
-	["Genre"] = "Infected",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://93951782693737"
-},
-["IMPENDING DOOM"] = {
-	["Name"] = "IMPENDING_DOOM",
-	["Genre"] = "Infected",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://123278797417758"
-},
-["RelaxedScene"] = {
-	["Name"] = "Relaxed Scene",
-	["Genre"] = "LobbyAprilFools",
-	["Authors"] = "James Clarke",
-	["AlbumCoverId"] = "rbxassetid://137135890719180"
-},
-["80sIntermission"] = {
-	["Name"] = "80s intermission",
-	["Genre"] = "Lobby",
-	["Authors"] = "chuuisinsane",
-	["AlbumCoverId"] = "rbxassetid://109699171485507"
-},
-["Bloxy Blox (Remix)"] = {
-	["Name"] = "Bloxy Blox (Remix)",
-	["Genre"] = "Round",
-	["Authors"] = "glunic",
-	["AlbumCoverId"] = "rbxassetid://107239306516239"
-},
-["Mellifluous"] = {
-	["Name"] = "Mellifluous",
-	["Genre"] = "Lobby",
-	["Authors"] = "JJLev",
-	["AlbumCoverId"] = "rbxassetid://129116417161962"
-},
-["crashout (teto mix)"] = {
-	["Name"] = "crashout (teto mix)",
-	["Genre"] = "RoundAprilFools",
-	["Authors"] = "Funki_",
-	["AlbumCoverId"] = "rbxassetid://91730136354683"
+  14:35:06.907  {
+["MiawMeow"] : {
+	["Name"] : "miaw meow",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://104393619635863"
+},
+["MatteTiles"] : {
+	["Name"] : "matte tiles",
+	["Genre"] : "Lobby",
+	["Authors"] : "rockblade_e",
+	["AlbumCoverId"] : "rbxassetid://72036102979261"
+},
+["One Last Chance"] : {
+	["Name"] : "One Last Chance",
+	["Genre"] : "Round",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://136050556946779"
+},
+["F0RC3 BR34CH"] : {
+	["Name"] : "F0RC3 BR34CH",
+	["Genre"] : "Round",
+	["Authors"] : {"Astraxlite", "FORSE54"},
+	["AlbumCoverId"] : "rbxassetid://77660745271816"
+},
+["ChillOut"] : {
+	["Name"] : "chill out",
+	["Genre"] : "Lobby",
+	["Authors"] : "xanjwarhdalt",
+	["AlbumCoverId"] : "rbxassetid://118546739937212"
+},
+["w3lcm 2 r0blx"] : {
+	["Name"] : "w3lcm 2 r0blx",
+	["Genre"] : "Lobby",
+	["Authors"] : "KateBuck",
+	["AlbumCoverId"] : "rbxassetid://113276687268972"
+},
+["Adrenaline"] : {
+	["Name"] : "Adrenaline",
+	["Genre"] : "Round",
+	["Authors"] : "VAVS",
+	["AlbumCoverId"] : "rbxassetid://76814632922647"
+},
+["isotope"] : {
+	["Name"] : "isotope",
+	["Genre"] : "Round",
+	["Authors"] : "sally",
+	["AlbumCoverId"] : "rbxassetid://77169995614695"
+},
+["Maplesyrup"] : {
+	["Name"] : "maplesyrup",
+	["Genre"] : "Lobby",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://87155970907600"
+},
+["Neutral Parti"] : {
+	["Name"] : "Neutral Parti",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://70441356263406"
+},
+["Cataclysm"] : {
+	["Name"] : "Cataclysm",
+	["Genre"] : "Round",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://113844191867349"
+},
+["TagU"] : {
+	["Name"] : "Tag U",
+	["Genre"] : "Lobby",
+	["Authors"] : "box",
+	["AlbumCoverId"] : "rbxassetid://18756521564"
+},
+["supernova"] : {
+	["Name"] : "supernova",
+	["Genre"] : "Round",
+	["Authors"] : "box",
+	["AlbumCoverId"] : "rbxassetid://88275574880906"
+},
+["BloxiSwing!"] : {
+	["Name"] : "BloxiSwing!",
+	["Genre"] : "Lobby",
+	["Authors"] : "Quagorto",
+	["AlbumCoverId"] : "rbxassetid://111966494354746"
+},
+["crashout (thick mix)"] : {
+	["Name"] : "crashout (sus mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["Crashsyrup"] : {
+	["Name"] : "maplesyrup",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://87155970907600"
+},
+["Bomb"] : {
+	["Name"] : "rainbow remix",
+	["Genre"] : "Round",
+	["Authors"] : "sulflix",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["by the shore with you"] : {
+	["Name"] : "by the shore with you",
+	["Genre"] : "Lobby",
+	["Authors"] : "lrnzo",
+	["AlbumCoverId"] : "rbxassetid://116525810785633"
+},
+["LastManStanding"] : {
+	["Name"] : "Last Man Standing",
+	["Genre"] : "Round",
+	["Authors"] : "jusstomeone",
+	["AlbumCoverId"] : "rbxassetid://18801843678"
+},
+["zirconium"] : {
+	["Name"] : "zirconium",
+	["Genre"] : "Round",
+	["Authors"] : "one80",
+	["AlbumCoverId"] : "rbxassetid://97852882359631"
+},
+["RunChu"] : {
+	["Name"] : "run",
+	["Genre"] : "Round",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://94718734202944"
+},
+["sodastreet"] : {
+	["Name"] : "sodastreet",
+	["Genre"] : "Round",
+	["Authors"] : "box",
+	["AlbumCoverId"] : "rbxassetid://86796930000245"
+},
+["LastRunnerStanding"] : {
+	["Name"] : "Last Runner Standing",
+	["Genre"] : "Infected",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://85996221434164"
+},
+["PlatformSynthesis"] : {
+	["Name"] : "Platform Synthesis",
+	["Genre"] : "Lobby",
+	["Authors"] : {"GabeSipache", "NtCyann"},
+	["AlbumCoverId"] : "rbxassetid://18756522307"
+},
+["ROBLIXinstru"] : {
+	["Name"] : "ROBLIX (instrumental)",
+	["Genre"] : "Lobby",
+	["Authors"] : "joei",
+	["AlbumCoverId"] : "rbxassetid://17404349800"
+},
+["ALL I NEED IS YOU"] : {
+	["Name"] : "ALL I NEED IS YOU",
+	["Genre"] : "Round",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://80116141226920"
+},
+["HAZE"] : {
+	["Name"] : "HAZE",
+	["Genre"] : "Round",
+	["Authors"] : "one80",
+	["AlbumCoverId"] : "rbxassetid://134063403010016"
+},
+["Sturdy"] : {
+	["Name"] : "sturdy",
+	["Genre"] : "Vault",
+	["Authors"] : "kupi",
+	["AlbumCoverId"] : "rbxassetid://136228368394778"
+},
+["TheGreatStrategy"] : {
+	["Name"] : "The Great Strategy",
+	["Genre"] : "Round",
+	["Authors"] : "Badliz",
+	["AlbumCoverId"] : "rbxassetid://15740929228"
+},
+["well restedv2"] : {
+	["Name"] : "well rested",
+	["Genre"] : "Lobby",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://96454435230466"
+},
+["RainingTacos"] : {
+	["Name"] : "Raining Tacos",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Parry Gripp",
+	["AlbumCoverId"] : "rbxassetid://129147628827205"
+},
+["Meanwhile"] : {
+	["Name"] : "Meanwhile",
+	["Genre"] : "Vault",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://18756523756"
+},
+["QWERTY"] : {
+	["Name"] : "QWERTY",
+	["Genre"] : "Round",
+	["Authors"] : "nicopatty",
+	["AlbumCoverId"] : "rbxassetid://17016448294"
+},
+["PRESS PLAY"] : {
+	["Name"] : "PRESS PLAY",
+	["Genre"] : "Lobby",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://102964521264734"
+},
+["JugRemix"] : {
+	["Name"] : "Juggernaut (remix)",
+	["Genre"] : "CombatInitiation",
+	["Authors"] : {"MysticNuggets", "Combat Initiation"},
+	["AlbumCoverId"] : "rbxassetid://18631039265"
+},
+["Universal"] : {
+	["Name"] : "Universal",
+	["Genre"] : "Lobby",
+	["Authors"] : "galaxymp3",
+	["AlbumCoverId"] : "rbxassetid://124775825021090"
+},
+["B4 U Go"] : {
+	["Name"] : "B4 U Go",
+	["Genre"] : "Lobby",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://128022324784818"
+},
+["ClassicalConundrum"] : {
+	["Name"] : "Classical Conundrum",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "myralune",
+	["AlbumCoverId"] : "rbxassetid://99591334407403"
+},
+["fresh air"] : {
+	["Name"] : "fresh air",
+	["Genre"] : "Round",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://84353096831127"
+},
+["SpoopyHour"] : {
+	["Name"] : "spoopy hour",
+	["Genre"] : "Hallows2024",
+	["Authors"] : "RedPlayzYT20",
+	["AlbumCoverId"] : "rbxassetid://104623610810453"
+},
+["HappyDayInRobloxia"] : {
+	["Name"] : "Happy Day In ROBLOXia",
+	["Genre"] : "Lobby",
+	["Authors"] : "ScorpioPilot",
+	["AlbumCoverId"] : "rbxassetid://15753400766"
+},
+["B!0xxer"] : {
+	["Name"] : "B!0xxer",
+	["Genre"] : "Lobby",
+	["Authors"] : "JUSTdev",
+	["AlbumCoverId"] : "rbxassetid://120375464076260"
+},
+["Respawned"] : {
+	["Name"] : "Respawned",
+	["Genre"] : "Round",
+	["Authors"] : "Funki_TehG00B3R",
+	["AlbumCoverId"] : "rbxassetid://120740577903489"
+},
+["bangkokchina"] : {
+	["Name"] : "bangkok",
+	["Genre"] : "Lobby",
+	["Authors"] : "relow",
+	["AlbumCoverId"] : "rbxassetid://110221390010121"
+},
+["TheDoodad"] : {
+	["Name"] : "The Doodad",
+	["Genre"] : "Lobby",
+	["Authors"] : "TanielCoolGuy",
+	["AlbumCoverId"] : "rbxassetid://18773670323"
+},
+["marmalade dream boksed edit"] : {
+	["Name"] : "marmelade dream boksed edit",
+	["Genre"] : "Round",
+	["Authors"] : "box",
+	["AlbumCoverId"] : "rbxassetid://92745313334786"
+},
+["HIGH UP"] : {
+	["Name"] : "HIGH_UP",
+	["Genre"] : "Round",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://121596810078917"
+},
+["ParadiseFalls"] : {
+	["Name"] : "Paradise Falls",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Craig McConnell",
+	["AlbumCoverId"] : "rbxassetid://82728799360273"
+},
+["Crashout"] : {
+	["Name"] : "crash out [tag mix]",
+	["Genre"] : "Round",
+	["Authors"] : "1nicopatty",
+	["AlbumCoverId"] : "rbxassetid://17771116085"
+},
+["Solitaire"] : {
+	["Name"] : "Solitaire",
+	["Genre"] : "Lobby",
+	["Authors"] : "Gerd Kadenbach",
+	["AlbumCoverId"] : "rbxassetid://15785381707"
+},
+["crashout (hk97 mix)"] : {
+	["Name"] : "crashout (hk97 mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["PrimaBossaNova"] : {
+	["Name"] : "Prima Bossa Nova",
+	["Genre"] : "Lobby",
+	["Authors"] : "Anthony Mawer",
+	["AlbumCoverId"] : "rbxassetid://15742281872"
+},
+["QWERTYAprilFoolsMix"] : {
+	["Name"] : "QWERTY April Fools Mix",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "ELPANARP",
+	["AlbumCoverId"] : "rbxassetid://104969117031772"
+},
+["TagMe"] : {
+	["Name"] : "Tag Me!",
+	["Genre"] : "Lobby",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://17084493034"
+},
+["SnakesNTaggers"] : {
+	["Name"] : "snakes n' taggers",
+	["Genre"] : "Round",
+	["Authors"] : "maplazalea",
+	["AlbumCoverId"] : "rbxassetid://18756521762"
+},
+["Delirium"] : {
+	["Name"] : "Delirium",
+	["Genre"] : "Infected",
+	["Authors"] : "uglyburger0",
+	["AlbumCoverId"] : "rbxassetid://17886929783"
+},
+["CoolTag"] : {
+	["Name"] : "cool tag",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupi",
+	["AlbumCoverId"] : "rbxassetid://98992566993893"
+},
+["Strollin"] : {
+	["Name"] : "Strollin'",
+	["Genre"] : "Lobby",
+	["Authors"] : "HumidKeyboard07",
+	["AlbumCoverId"] : "rbxassetid://18756523157"
+},
+["Bubblegum"] : {
+	["Name"] : "Bubblegum",
+	["Genre"] : "Lobby",
+	["Authors"] : "HazeEclipse",
+	["AlbumCoverId"] : "rbxassetid://92211040050219"
+},
+["CrashStep"] : {
+	["Name"] : "crash step",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "maplazalea",
+	["AlbumCoverId"] : "rbxassetid://107688793479820"
+},
+["coinslot final"] : {
+	["Name"] : "coinslot",
+	["Genre"] : "Round",
+	["Authors"] : "blxco",
+	["AlbumCoverId"] : "rbxassetid://119996435358137"
+},
+["Delivery"] : {
+	["Name"] : "Delivery",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial ",
+	["AlbumCoverId"] : "rbxassetid://112524156433419"
+},
+["MY HEART"] : {
+	["Name"] : "MY HEART",
+	["Genre"] : "Round",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://83456497517383"
+},
+["brkbtl"] : {
+	["Name"] : "brkbtl",
+	["Genre"] : "Vault",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://122324451547930"
+},
+["Snooze"] : {
+	["Name"] : "snooze",
+	["Genre"] : "Lobby",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://94718734202944"
+},
+["Love 101"] : {
+	["Name"] : "Love 101",
+	["Genre"] : "Lobby",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://119200817209147"
+},
+["well rested april"] : {
+	["Name"] : "well rested",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://96454435230466"
+},
+["dist-guitar-idea"] : {
+	["Name"] : "guitar idea",
+	["Genre"] : "Lobby",
+	["Authors"] : "relow",
+	["AlbumCoverId"] : "rbxassetid://98708486973943"
+},
+["Quick Swim"] : {
+	["Name"] : "Quick Swim",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://114561196359104"
+},
+["SeventhH6rn"] : {
+	["Name"] : "seventh h6rn",
+	["Genre"] : "Lobby",
+	["Authors"] : "vict6rrrr",
+	["AlbumCoverId"] : "rbxassetid://82048646212350"
+},
+["RecycledIntro"] : {
+	["Name"] : "Recycled Intro",
+	["Genre"] : "Round",
+	["Authors"] : "Daniel Bautista",
+	["AlbumCoverId"] : "rbxassetid://16738454738"
+},
+["Flori"] : {
+	["Name"] : "Flori",
+	["Genre"] : "Lobby",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://75359698175123"
+},
+["GroundBeef"] : {
+	["Name"] : "Ground Beef",
+	["Genre"] : "Lobby",
+	["Authors"] : "TanielCoolGuy",
+	["AlbumCoverId"] : "rbxassetid://17551134267"
+},
+["HereWeGoInst"] : {
+	["Name"] : "Here We Go(Instrumental)",
+	["Genre"] : "Round",
+	["Authors"] : "Giants of Industry",
+	["AlbumCoverId"] : "rbxassetid://16717284183"
+},
+["CombustionConundrum"] : {
+	["Name"] : "Combustion Conundrum",
+	["Genre"] : "Round",
+	["Authors"] : "myralune",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["WaitALittle"] : {
+	["Name"] : "Wait a Little",
+	["Genre"] : "Vault",
+	["Authors"] : "SpringyGN",
+	["AlbumCoverId"] : "rbxassetid://94914151423993"
+},
+["sip"] : {
+	["Name"] : "sip",
+	["Genre"] : "Lobby",
+	["Authors"] : "a1denn",
+	["AlbumCoverId"] : "rbxassetid://105483061389120"
+},
+["Disco"] : {
+	["Name"] : "disco",
+	["Genre"] : "Lobby",
+	["Authors"] : {"chuuisinsane", "ethanfiskeofficial"},
+	["AlbumCoverId"] : "rbxassetid://94718734202944"
+},
+["SpeedAddict"] : {
+	["Name"] : "Speed Addict (Remastered)",
+	["Genre"] : "Round",
+	["Authors"] : "Zdeněk Houb",
+	["AlbumCoverId"] : "rbxassetid://16736085777"
+},
+["UTG return"] : {
+	["Name"] : "RETURN",
+	["Genre"] : "Lobby",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://102334979323601"
+},
+["Extra"] : {
+	["Name"] : "Extra",
+	["Genre"] : "Round",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://117145503608204"
+},
+["Bloxy"] : {
+	["Name"] : "bloxy blox",
+	["Genre"] : "Vault",
+	["Authors"] : "kupi",
+	["AlbumCoverId"] : "rbxassetid://105835335739901"
+},
+["unknown barrier"] : {
+	["Name"] : "unknown barrier",
+	["Genre"] : "Round",
+	["Authors"] : "Albeit",
+	["AlbumCoverId"] : "rbxassetid://134621625768772"
+},
+["HipHopRemix"] : {
+	["Name"] : "Hip Hop (UTG Remix)",
+	["Genre"] : "Lobby",
+	["Authors"] : "maplazalea",
+	["AlbumCoverId"] : "rbxassetid://85345443239434"
+},
+["MusicForAFilm"] : {
+	["Name"] : "Opening Theme",
+	["Genre"] : "Round",
+	["Authors"] : "Daniel Bautista de Cabo",
+	["AlbumCoverId"] : "rbxassetid://15765293250"
+},
+["LongTimeV2"] : {
+	["Name"] : "Long Time",
+	["Genre"] : "Lobby",
+	["Authors"] : "Astraxlite",
+	["AlbumCoverId"] : "rbxassetid://109434505376799"
+},
+["fresh air41"] : {
+	["Name"] : "fresh air",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://84353096831127"
+},
+["CalmTag"] : {
+	["Name"] : "Calm Tag",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupi",
+	["AlbumCoverId"] : "rbxassetid://77558059681622"
+},
+["LazySunday"] : {
+	["Name"] : "Lazy Sunday",
+	["Genre"] : "Lobby",
+	["Authors"] : "Duncan Lamont",
+	["AlbumCoverId"] : "rbxassetid://15742181728"
+},
+["beebubum"] : {
+	["Name"] : "beebubum",
+	["Genre"] : "Round",
+	["Authors"] : "deelb",
+	["AlbumCoverId"] : "rbxassetid://98035267182191"
+},
+["PocketPal 74"] : {
+	["Name"] : "Pocket Pal",
+	["Genre"] : "Lobby",
+	["Authors"] : "Vesper",
+	["AlbumCoverId"] : "rbxassetid://123439430613287"
+},
+["Resting Time"] : {
+	["Name"] : "Resting Time",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://92055675259008"
+},
+["GET BACK HERE!!"] : {
+	["Name"] : "GET BACK HERE!!",
+	["Genre"] : "Round",
+	["Authors"] : "SalPotGuyy",
+	["AlbumCoverId"] : "rbxassetid://82967304586167"
+},
+["SixtySecondSprint"] : {
+	["Name"] : "sixty second sprint",
+	["Genre"] : "Round",
+	["Authors"] : "ryalbern",
+	["AlbumCoverId"] : "rbxassetid://114836581263621"
+},
+["QWERTYSuperCoolintheSchoolMix"] : {
+	["Name"] : "QWERTY Super Cool in the School Mix",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "patoboi",
+	["AlbumCoverId"] : "rbxassetid://82051832452453"
+},
+["die with style"] : {
+	["Name"] : "die with style",
+	["Genre"] : "Lobby",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://99366576087019"
+},
+["SkyHigh"] : {
+	["Name"] : "sky high",
+	["Genre"] : "Lobby",
+	["Authors"] : "box",
+	["AlbumCoverId"] : "rbxassetid://18778874175"
+},
+["crashout (SWOON mix)"] : {
+	["Name"] : "crashout (SWOON mix)",
+	["Genre"] : "Round",
+	["Authors"] : "sunner",
+	["AlbumCoverId"] : "rbxassetid://137763172935808"
+},
+["SturdyV2"] : {
+	["Name"] : "Sturdy",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://115872184505662"
+},
+["crashworld"] : {
+	["Name"] : "crashworld",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "sunner",
+	["AlbumCoverId"] : "rbxassetid://89586239023208"
+},
+["BetterOffAloneIntermission"] : {
+	["Name"] : "Better Off Alone (Intermission Remix)",
+	["Genre"] : "Lobby",
+	["Authors"] : "Eef_X3",
+	["AlbumCoverId"] : "rbxassetid://126111536368506"
+},
+["Hunt"] : {
+	["Name"] : "Hunt",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://81792629324758"
+},
+["CUL8trAlligator"] : {
+	["Name"] : "c u l8tr alligator",
+	["Genre"] : "Lobby",
+	["Authors"] : "fearless",
+	["AlbumCoverId"] : "rbxassetid://89700166843283"
+},
+["Hypercharge"] : {
+	["Name"] : "Hypercharge",
+	["Genre"] : "Round",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://98622773604420"
+},
+["Again"] : {
+	["Name"] : "Again",
+	["Genre"] : "Round",
+	["Authors"] : "radon",
+	["AlbumCoverId"] : "rbxassetid://123783121795321"
+},
+["pay dial"] : {
+	["Name"] : "pay dial",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://114933146954564"
+},
+["crashout (savage mix)"] : {
+	["Name"] : "crashout (savage mix)",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["WindsOfFjords"] : {
+	["Name"] : "Winds Of Fjords (minomus 2022 remaster)",
+	["Genre"] : "Infected",
+	["Authors"] : "Soft Knees",
+	["AlbumCoverId"] : "rbxassetid://15799146744"
+},
+["Chill"] : {
+	["Name"] : "crash out",
+	["Genre"] : "Lobby",
+	["Authors"] : "1nicopatty",
+	["AlbumCoverId"] : "rbxassetid://17771116085"
+},
+["Meanwhilev2"] : {
+	["Name"] : "Meanwhile",
+	["Genre"] : "Lobby",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://101596972076066"
+},
+["core"] : {
+	["Name"] : "core",
+	["Genre"] : "Round",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://101836868108815"
+},
+["keyboard demo"] : {
+	["Name"] : "keyboard demo",
+	["Genre"] : "Lobby",
+	["Authors"] : "fss",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["TheAmazingBossaNova"] : {
+	["Name"] : "Prima Bossa Nova",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Anthony Mawer",
+	["AlbumCoverId"] : "rbxassetid://15742281872"
+},
+["NoMore"] : {
+	["Name"] : "No More",
+	["Genre"] : "Lobby",
+	["Authors"] : "Dave Rosenholz",
+	["AlbumCoverId"] : "rbxassetid://15742226658"
+},
+["invernal"] : {
+	["Name"] : "invernal",
+	["Genre"] : "Round",
+	["Authors"] : "KateBuck",
+	["AlbumCoverId"] : "rbxassetid://96856305545636"
+},
+["Booming"] : {
+	["Name"] : "Booming",
+	["Genre"] : "Lobby",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://71569589498801"
+},
+["Pandemic"] : {
+	["Name"] : "Pandemic",
+	["Genre"] : "Infected",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://112786844355202"
+},
+["Samplefunk"] : {
+	["Name"] : "samplefunk",
+	["Genre"] : "Round",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://94511597124702"
+},
+["infecti ogg"] : {
+	["Name"] : "infecti",
+	["Genre"] : "Infected",
+	["Authors"] : "sprites",
+	["AlbumCoverId"] : "rbxassetid://78047943739521"
+},
+["Houce"] : {
+	["Name"] : "haus",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://18802506931"
+},
+["IDWFTD"] : {
+	["Name"] : "IDWFTD",
+	["Genre"] : "Round",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://131009573086907"
+},
+["Starstruck Supernova"] : {
+	["Name"] : "Starstruck Supernova",
+	["Genre"] : "Round",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://123596933554072"
+},
+["Fire Emblem"] : {
+	["Name"] : "fire emblem",
+	["Genre"] : "Round",
+	["Authors"] : "maplazalea",
+	["AlbumCoverId"] : "rbxassetid://81237784788515"
+},
+["crashout (geometry mix)"] : {
+	["Name"] : "crashout (geometry mix)",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["crashout (piggie mix)"] : {
+	["Name"] : "crashout (piggie mix)",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["Unfair Tagging Methods"] : {
+	["Name"] : "Unfair Tagging Methods",
+	["Genre"] : "Round",
+	["Authors"] : "kyoko",
+	["AlbumCoverId"] : "rbxassetid://107065725867527"
+},
+["blockrush"] : {
+	["Name"] : "blockrush",
+	["Genre"] : "Round",
+	["Authors"] : "Isyn_e",
+	["AlbumCoverId"] : "rbxassetid://91807742125260"
+},
+["Boomerang"] : {
+	["Name"] : "Boomerang Generic",
+	["Genre"] : "Lobby",
+	["Authors"] : "Michael Kohler",
+	["AlbumCoverId"] : "rbxassetid://17004269231"
+},
+["Subspace Subatomic"] : {
+	["Name"] : "Subspace Subatomic",
+	["Genre"] : "Round",
+	["Authors"] : "one80",
+	["AlbumCoverId"] : "rbxassetid://74330184891805"
+},
+["jazzbounce"] : {
+	["Name"] : "jazzbounce",
+	["Genre"] : "Round",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://85689461307907"
+},
+["GothicDB"] : {
+	["Name"] : "Gothic",
+	["Genre"] : "Infected",
+	["Authors"] : "Daniel Bautista",
+	["AlbumCoverId"] : "rbxassetid://16738454738"
+},
+["please hold"] : {
+	["Name"] : "please hold",
+	["Genre"] : "Lobby",
+	["Authors"] : "Epik",
+	["AlbumCoverId"] : "rbxassetid://100849289898237"
+},
+["SUNSET BREEZE"] : {
+	["Name"] : "SUNSET BREEZE",
+	["Genre"] : "Lobby",
+	["Authors"] : "AxoWave",
+	["AlbumCoverId"] : "rbxassetid://108330252915030"
+},
+["LongTimeUTG"] : {
+	["Name"] : "Long Time",
+	["Genre"] : "Vault",
+	["Authors"] : {"Astraxlite", "Tophat master"},
+	["AlbumCoverId"] : "rbxassetid://97587498441172"
+},
+["Apparition"] : {
+	["Name"] : "Apparition",
+	["Genre"] : "Infected",
+	["Authors"] : "SpringyGN",
+	["AlbumCoverId"] : "rbxassetid://18756524454"
+},
+["Horrifix"] : {
+	["Name"] : "Horrifix",
+	["Genre"] : "Infected",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://17084477076"
+},
+["what could you w6nt from me v2"] : {
+	["Name"] : "what could you w6nt from me",
+	["Genre"] : "Lobby",
+	["Authors"] : "vict6rrrr",
+	["AlbumCoverId"] : "rbxassetid://81627811461934"
+},
+["CrashOutRedRemix"] : {
+	["Name"] : "CRASHOUT REMIX",
+	["Genre"] : "Vault",
+	["Authors"] : "RedPlayzYT20",
+	["AlbumCoverId"] : "rbxassetid://136407664473191"
+},
+["HereWeGo"] : {
+	["Name"] : "Here We Go",
+	["Genre"] : "Round",
+	["Authors"] : "Giants of Industry",
+	["AlbumCoverId"] : "rbxassetid://16717284183"
+},
+["Noon"] : {
+	["Name"] : "Noon",
+	["Genre"] : "Lobby",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://83025856953804"
+},
+["They're coming"] : {
+	["Name"] : "They're coming",
+	["Genre"] : "Infected",
+	["Authors"] : "Quagorto",
+	["AlbumCoverId"] : "rbxassetid://94070610985566"
+},
+["HorridHenryJoke"] : {
+	["Name"] : "Horrid Henry",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "uglyburger0",
+	["AlbumCoverId"] : "rbxassetid://16746295491"
+},
+["Roselita"] : {
+	["Name"] : "Roselita",
+	["Genre"] : "Lobby",
+	["Authors"] : "Pierre Arvay",
+	["AlbumCoverId"] : "rbxassetid://15742173716"
+},
+["Run"] : {
+	["Name"] : "RUN!",
+	["Genre"] : "Round",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://104106902250649"
+},
+["Chill_Vote"] : {
+	["Name"] : "Chill_Vote",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://97862207974786"
+},
+["TAGDOWN"] : {
+	["Name"] : "TAGDOWN",
+	["Genre"] : "Round",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://136905124517184"
+},
+["Doodlegrounds"] : {
+	["Name"] : "Doodlegrounds",
+	["Genre"] : "Lobby",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://17059672245"
+},
+["RadicalShift"] : {
+	["Name"] : "Radical Shift",
+	["Genre"] : "Round",
+	["Authors"] : "Alberto Domínguez",
+	["AlbumCoverId"] : "rbxassetid://15742897405"
+},
+["Paused (hazerred remix)"] : {
+	["Name"] : "Paused (hazerred remix)",
+	["Genre"] : "Lobby",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://97212867874296"
+},
+["UntitledGuli"] : {
+	["Name"] : "untitled",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "kupi",
+	["AlbumCoverId"] : "rbxassetid://128322348325969"
+},
+["BossaLulluby"] : {
+	["Name"] : "Bossa Lullaby",
+	["Genre"] : "Lobby",
+	["Authors"] : "lavaa2109",
+	["AlbumCoverId"] : "rbxassetid://110006066529945"
+},
+["crash capital"] : {
+	["Name"] : "CRASH CAPITAL",
+	["Genre"] : "Round",
+	["Authors"] : "1nicopatty",
+	["AlbumCoverId"] : "rbxassetid://94752706610851"
+},
+["BLOCKBUSTER"] : {
+	["Name"] : "BLOCKBUSTER",
+	["Genre"] : "Lobby",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://139588262325485"
+},
+["DrumFreak"] : {
+	["Name"] : "Drum Freak",
+	["Genre"] : "Vault",
+	["Authors"] : "VAVS",
+	["AlbumCoverId"] : "rbxassetid://121426053123012"
+},
+["PWNED"] : {
+	["Name"] : "PWNED",
+	["Genre"] : "Round",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://108370511670335"
+},
+["Escapists"] : {
+	["Name"] : "Escapists",
+	["Genre"] : "Round",
+	["Authors"] : "Albeit",
+	["AlbumCoverId"] : "rbxassetid://15464090883"
+},
+["KnockKnock"] : {
+	["Name"] : "knock, knock!",
+	["Genre"] : "Lobby",
+	["Authors"] : "nicopatty",
+	["AlbumCoverId"] : "rbxassetid://102713179539662"
+},
+["Soon2be"] : {
+	["Name"] : "Soon2be.wav",
+	["Genre"] : "Lobby",
+	["Authors"] : "Albeit",
+	["AlbumCoverId"] : "rbxassetid://15464090883"
+},
+["cloud9"] : {
+	["Name"] : "cloud9",
+	["Genre"] : "Lobby",
+	["Authors"] : "eyevi",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["MACH"] : {
+	["Name"] : "MACH",
+	["Genre"] : "Round",
+	["Authors"] : "eyevi",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["Slashout"] : {
+	["Name"] : "Slashout",
+	["Genre"] : "HorrorAprilFools",
+	["Authors"] : {"Astraxlite", "O9o"},
+	["AlbumCoverId"] : "rbxassetid://127512193379716"
+},
+["Sweat_Time_V4"] : {
+	["Name"] : "Sweat Time",
+	["Genre"] : "Round",
+	["Authors"] : "FORSE54",
+	["AlbumCoverId"] : "rbxassetid://83175107875375"
+},
+["gnosis"] : {
+	["Name"] : "gnosis",
+	["Genre"] : "Lobby",
+	["Authors"] : "eyevi",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["CRASHOUT BUT FUNKY"] : {
+	["Name"] : "CRASHOUT BUT FUNKY",
+	["Genre"] : "Lobby",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://116105270717565"
+},
+["Neutron"] : {
+	["Name"] : "Neutron",
+	["Genre"] : "Round",
+	["Authors"] : {"nyr", "one80"},
+	["AlbumCoverId"] : "rbxassetid://82466120620727"
+},
+["HorridHenry"] : {
+	["Name"] : "Horrid Henry",
+	["Genre"] : "Round",
+	["Authors"] : "uglyburger0",
+	["AlbumCoverId"] : "rbxassetid://16746295491"
+},
+["HorrifixRemix"] : {
+	["Name"] : "Horrifix (remix)",
+	["Genre"] : "CombatInitiation",
+	["Authors"] : {"MysticNuggets", "Combat Initiation"},
+	["AlbumCoverId"] : "rbxassetid://18631039265"
+},
+["QWERTYhousemix"] : {
+	["Name"] : "QWERTY house mix",
+	["Genre"] : "Lobby",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://94718734202944"
+},
+["necradia"] : {
+	["Name"] : "necradia",
+	["Genre"] : "Infected",
+	["Authors"] : "KateBuck",
+	["AlbumCoverId"] : "rbxassetid://100230644187036"
+},
+["crashout kompa mix"] : {
+	["Name"] : "crashout kompa mix",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "thediskyremixer",
+	["AlbumCoverId"] : "rbxassetid://85500590911015"
+},
+["Milky Ways"] : {
+	["Name"] : "Milky Ways",
+	["Genre"] : "Round",
+	["Authors"] : "sunner",
+	["AlbumCoverId"] : "rbxassetid://77867219892249"
+},
+["Fl6xOnYa"] : {
+	["Name"] : "fl6x on ya",
+	["Genre"] : "Lobby",
+	["Authors"] : "vict6rrrr",
+	["AlbumCoverId"] : "rbxassetid://127282641398779"
+},
+["crush!"] : {
+	["Name"] : "crush!",
+	["Genre"] : "Lobby",
+	["Authors"] : "azalea",
+	["AlbumCoverId"] : "rbxassetid://102931897711245"
+},
+["Selection (Albeit Remix)"] : {
+	["Name"] : "Selection (Albeit Remix)",
+	["Genre"] : "Round",
+	["Authors"] : "Albeit",
+	["AlbumCoverId"] : "rbxassetid://99963326832826"
+},
+["skip-hop"] : {
+	["Name"] : "skip-hop",
+	["Genre"] : "Round",
+	["Authors"] : {"shaddinaround", "maplazalea"},
+	["AlbumCoverId"] : "rbxassetid://100362377897283"
+},
+["KEEP UP"] : {
+	["Name"] : "KEEP UP",
+	["Genre"] : "Round",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://71789071881011"
+},
+["g6in_down"] : {
+	["Name"] : "g6in down",
+	["Genre"] : "Lobby",
+	["Authors"] : "vict6rrrr",
+	["AlbumCoverId"] : "rbxassetid://78373434867282"
+},
+["Intervention"] : {
+	["Name"] : "Intervention",
+	["Genre"] : "Round",
+	["Authors"] : "Albeit",
+	["AlbumCoverId"] : "rbxassetid://128139382936522"
+},
+["First Date"] : {
+	["Name"] : "First Date",
+	["Genre"] : "Lobby",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://134397682197963"
+},
+["Blossom"] : {
+	["Name"] : "Blossom",
+	["Genre"] : "Round",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://75359698175123"
+},
+["Pluhlifluous"] : {
+	["Name"] : "Mellifluous",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "JJLev",
+	["AlbumCoverId"] : "rbxassetid://125552569698273"
+},
+["ChillEndless"] : {
+	["Name"] : "crash out",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "1nicopatty",
+	["AlbumCoverId"] : "rbxassetid://17771116085"
+},
+["one last route"] : {
+	["Name"] : "one last route",
+	["Genre"] : "Round",
+	["Authors"] : "hunnmag",
+	["AlbumCoverId"] : "rbxassetid://125763041516391"
+},
+["crashout tag mix"] : {
+	["Name"] : "crashout tag mix",
+	["Genre"] : "Round",
+	["Authors"] : "SiIvaGunner",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["her p6rents hate me"] : {
+	["Name"] : "her p6rents hate me",
+	["Genre"] : "Lobby",
+	["Authors"] : "vict6rrrr",
+	["AlbumCoverId"] : "rbxassetid://81627811461934"
+},
+["i just wanna know"] : {
+	["Name"] : "i just wanna know",
+	["Genre"] : "Round",
+	["Authors"] : "jeko",
+	["AlbumCoverId"] : "rbxassetid://76961564855559"
+},
+["Trendy In 2025"] : {
+	["Name"] : "Trendy In 2025",
+	["Genre"] : "Lobby",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://99461988961613"
+},
+["CoffeeBreak"] : {
+	["Name"] : "Coffee Break",
+	["Genre"] : "Lobby",
+	["Authors"] : {"Irving Marin", "Brian Dee"},
+	["AlbumCoverId"] : "rbxassetid://15742261786"
+},
+["crashout (utg mix)"] : {
+	["Name"] : "crashout (utg mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["Worlds richest honey"] : {
+	["Name"] : "Worlds richest honey",
+	["Genre"] : "Round",
+	["Authors"] : "eyevi",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["MULE"] : {
+	["Name"] : "M.U.L.E. (Bitblaster Mix)",
+	["Genre"] : "Round",
+	["Authors"] : "Roy Glover",
+	["AlbumCoverId"] : "rbxassetid://15742898613"
+},
+["Changes"] : {
+	["Name"] : "Changes",
+	["Genre"] : "Round",
+	["Authors"] : {"jammed", "hazerred"},
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["RAGTIME BADTIME"] : {
+	["Name"] : "RAGTIME BADTIME",
+	["Genre"] : "Round",
+	["Authors"] : "coμl",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["firepower"] : {
+	["Name"] : "firepower",
+	["Genre"] : "Round",
+	["Authors"] : "one80",
+	["AlbumCoverId"] : "rbxassetid://84974468189014"
+},
+["Reconstruct"] : {
+	["Name"] : "Reconstruct",
+	["Genre"] : "Lobby",
+	["Authors"] : "uglyburger0",
+	["AlbumCoverId"] : "rbxassetid://16746295491"
+},
+["Show Time!"] : {
+	["Name"] : "Show Time!",
+	["Genre"] : "Round",
+	["Authors"] : "PCX",
+	["AlbumCoverId"] : "rbxassetid://132086003520230"
+},
+["crashout (sus mix)"] : {
+	["Name"] : "crashout (sus mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["SpookyOut"] : {
+	["Name"] : "spooky out",
+	["Genre"] : "Hallows2024",
+	["Authors"] : "kupi",
+	["AlbumCoverId"] : "rbxassetid://97233756951502"
+},
+["voxel"] : {
+	["Name"] : "voxel",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://101452785967635"
+},
+["First We Run"] : {
+	["Name"] : "First We Run",
+	["Genre"] : "Round",
+	["Authors"] : "KONNOR",
+	["AlbumCoverId"] : "rbxassetid://107894813707862"
+},
+["as of cyclones"] : {
+	["Name"] : "as of cyclones",
+	["Genre"] : "Round",
+	["Authors"] : "rockblade_e",
+	["AlbumCoverId"] : "rbxassetid://71811907137177"
+},
+["past that"] : {
+	["Name"] : "past that",
+	["Genre"] : "Lobby",
+	["Authors"] : "deet",
+	["AlbumCoverId"] : "rbxassetid://16851321113"
+},
+["crashout (kevin mix)"] : {
+	["Name"] : "crashout (kevin mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["Budget Crash"] : {
+	["Name"] : "Budget Crash",
+	["Genre"] : "Vault",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://82175046036967"
+},
+["LURKING"] : {
+	["Name"] : "Lurking",
+	["Genre"] : "Round",
+	["Authors"] : "foamzers",
+	["AlbumCoverId"] : "rbxassetid://100396478971290"
+},
+["ROFL"] : {
+	["Name"] : "ROFL",
+	["Genre"] : "Round",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://119871120891051"
+},
+["Juggernaut"] : {
+	["Name"] : "Juggernaut",
+	["Genre"] : "Round",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://17059694215"
+},
+["PIZZA"] : {
+	["Name"] : "PIZZA",
+	["Genre"] : "Round",
+	["Authors"] : "FORSE54",
+	["AlbumCoverId"] : "rbxassetid://77520115529135"
+},
+["hard candy"] : {
+	["Name"] : "hard candy",
+	["Genre"] : "Round",
+	["Authors"] : "peuku",
+	["AlbumCoverId"] : "rbxassetid://92423433724697"
+},
+["Looping_Lights"] : {
+	["Name"] : "Looping Lights",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://103739413615476"
+},
+["3UPHORIA."] : {
+	["Name"] : "3UPHORIA.",
+	["Genre"] : "Lobby",
+	["Authors"] : "dxstrxcted",
+	["AlbumCoverId"] : "rbxassetid://73913616469946"
+},
+["rosani"] : {
+	["Name"] : "rosani",
+	["Genre"] : "Lobby",
+	["Authors"] : "FORSE54",
+	["AlbumCoverId"] : "rbxassetid://102102546205828"
+},
+["Woodblocks"] : {
+	["Name"] : "Woodblocks",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://107651563981754"
+},
+["flurry"] : {
+	["Name"] : "Flurry",
+	["Genre"] : "Round",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://79391272116641"
+},
+["TOTEHMOON"] : {
+	["Name"] : "TO TEH MOON",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://116287624322315"
+},
+["stardust"] : {
+	["Name"] : "stardust",
+	["Genre"] : "Lobby",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://99393386190879"
+},
+["Crash Capital (hazerred remix)"] : {
+	["Name"] : "Crash Capital (hazerred remix)",
+	["Genre"] : "Round",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://94752706610851"
+},
+["KingsNightmare"] : {
+	["Name"] : "King's Nightmare",
+	["Genre"] : "Round",
+	["Authors"] : "ElSuperDuperTails",
+	["AlbumCoverId"] : "rbxassetid://18756524242"
+},
+["Tumble Crumble"] : {
+	["Name"] : "Tumble Crumble",
+	["Genre"] : "Round",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://107737925579759"
+},
+["silly"] : {
+	["Name"] : "silly",
+	["Genre"] : "Lobby",
+	["Authors"] : "sally",
+	["AlbumCoverId"] : "rbxassetid://86636522023302"
+},
+["Chezburber"] : {
+	["Name"] : "Chezburger",
+	["Genre"] : "Round",
+	["Authors"] : "Sticky",
+	["AlbumCoverId"] : "rbxassetid://121747312140327"
+},
+["runaway2"] : {
+	["Name"] : "runaway (Astraxlite mix)",
+	["Genre"] : "Vault",
+	["Authors"] : "Astraxlite",
+	["AlbumCoverId"] : "rbxassetid://81540265258736"
+},
+["knick-knackin"] : {
+	["Name"] : "knick-knackin",
+	["Genre"] : "Round",
+	["Authors"] : "bukket",
+	["AlbumCoverId"] : "rbxassetid://72246386919329"
+},
+["TownTalk"] : {
+	["Name"] : "Town Talk",
+	["Genre"] : "Lobby",
+	["Authors"] : "Gerhard Narholz",
+	["AlbumCoverId"] : "rbxassetid://15785396907"
+},
+["lov"] : {
+	["Name"] : "lov",
+	["Genre"] : "Lobby",
+	["Authors"] : "KateBuck",
+	["AlbumCoverId"] : "rbxassetid://71890362281315"
+},
+["Takeover"] : {
+	["Name"] : "takeover",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupi",
+	["AlbumCoverId"] : "rbxassetid://79584643607592"
+},
+["Diamonds"] : {
+	["Name"] : "Diamonds",
+	["Genre"] : "Lobby",
+	["Authors"] : "Friedrich Kruntorad",
+	["AlbumCoverId"] : "rbxassetid://15742216161"
+},
+["Python"] : {
+	["Name"] : "python",
+	["Genre"] : "Lobby",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://93951782693737"
+},
+["Gothic"] : {
+	["Name"] : "Gothic",
+	["Genre"] : "Infected",
+	["Authors"] : "zero-project",
+	["AlbumCoverId"] : "rbxassetid://15799197690"
+},
+["WiiOut"] : {
+	["Name"] : "wii out",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://93336445304452"
+},
+["UTGAprilFools"] : {
+	["Name"] : "you're it",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "toastywav",
+	["AlbumCoverId"] : "rbxassetid://128814535178280"
+},
+["Vivid"] : {
+	["Name"] : "vivid",
+	["Genre"] : "Lobby",
+	["Authors"] : {"edyn", "chuuisinsane"},
+	["AlbumCoverId"] : "rbxassetid://15464090883"
+},
+["SillyPop"] : {
+	["Name"] : "Silly Pop",
+	["Genre"] : "Lobby",
+	["Authors"] : "TanielCoolGuy",
+	["AlbumCoverId"] : "rbxassetid://15753383894"
+},
+["wowzers!"] : {
+	["Name"] : "wowzers!",
+	["Genre"] : "Lobby",
+	["Authors"] : "retro",
+	["AlbumCoverId"] : "rbxassetid://97190940453660"
+},
+["Projection"] : {
+	["Name"] : "Projection",
+	["Genre"] : "Vault",
+	["Authors"] : "SpringyGN",
+	["AlbumCoverId"] : "rbxassetid://95484803908874"
+},
+["daydream"] : {
+	["Name"] : "daydream",
+	["Genre"] : "Lobby",
+	["Authors"] : "Green",
+	["AlbumCoverId"] : "rbxassetid://130332944582262"
+},
+["crashout plugg mixxxing"] : {
+	["Name"] : "crashout (plugg mix) ",
+	["Genre"] : "Lobby",
+	["Authors"] : "keybomber",
+	["AlbumCoverId"] : "rbxassetid://78250316178763"
+},
+["TaggedNight"] : {
+	["Name"] : "Tagged Night",
+	["Genre"] : "Lobby",
+	["Authors"] : "Turbotical",
+	["AlbumCoverId"] : "rbxassetid://17590193804"
+},
+["bossa blues"] : {
+	["Name"] : "bossa blues",
+	["Genre"] : "Lobby",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://104568293744685"
+},
+["borin'"] : {
+	["Name"] : "borin'",
+	["Genre"] : "Lobby",
+	["Authors"] : "KateBuck",
+	["AlbumCoverId"] : "rbxassetid://137526944120429"
+},
+["blue n6tes"] : {
+	["Name"] : "blue n6tes",
+	["Genre"] : "Lobby",
+	["Authors"] : "vict6rrrr",
+	["AlbumCoverId"] : "rbxassetid://81627811461934"
+},
+["bloxycola theme"] : {
+	["Name"] : "bloxycola theme",
+	["Genre"] : "Vault",
+	["Authors"] : "sally",
+	["AlbumCoverId"] : "rbxassetid://96369802847033"
+},
+["at your convenience updated"] : {
+	["Name"] : "at your c6nvenience",
+	["Genre"] : "Lobby",
+	["Authors"] : "vict6rrrr",
+	["AlbumCoverId"] : "rbxassetid://81627811461934"
+},
+["Sussy Seconds"] : {
+	["Name"] : "Final Seconds",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Quagorto",
+	["AlbumCoverId"] : "rbxassetid://135130137941475"
+},
+["crashout (rainbow mix)"] : {
+	["Name"] : "crashout (rainbow mix)",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["Worse when Together"] : {
+	["Name"] : "Worse when Together",
+	["Genre"] : "Round",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://134571206658058"
+},
+["Wait a Little V2"] : {
+	["Name"] : "Wait a Little",
+	["Genre"] : "Lobby",
+	["Authors"] : "SpringyGN",
+	["AlbumCoverId"] : "rbxassetid://71360532368370"
+},
+["walk in the park"] : {
+	["Name"] : "walk in the park",
+	["Genre"] : "Lobby",
+	["Authors"] : "Green",
+	["AlbumCoverId"] : "rbxassetid://95903451375349"
+},
+["Clouds"] : {
+	["Name"] : "Clouds",
+	["Genre"] : "Round",
+	["Authors"] : "nyr",
+	["AlbumCoverId"] : "rbxassetid://123229997323564"
+},
+["SnakesNTaggersAprilFools"] : {
+	["Name"] : "snakes n' taggers",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "maplazalea",
+	["AlbumCoverId"] : "rbxassetid://91210801515209"
+},
+["COLA"] : {
+	["Name"] : "COLA",
+	["Genre"] : "Round",
+	["Authors"] : "jayy",
+	["AlbumCoverId"] : "rbxassetid://85889308048785"
+},
+["Sweat time quagmix"] : {
+	["Name"] : "Sweat Time Quagmix",
+	["Genre"] : "Round",
+	["Authors"] : "Quagorto",
+	["AlbumCoverId"] : "rbxassetid://72248945625692"
+},
+["szn"] : {
+	["Name"] : "chromatic",
+	["Genre"] : "Round",
+	["Authors"] : "one80",
+	["AlbumCoverId"] : "rbxassetid://140434889691045"
+},
+["SurvivalV2"] : {
+	["Name"] : "Survival",
+	["Genre"] : "Round",
+	["Authors"] : "FORSE54",
+	["AlbumCoverId"] : "rbxassetid://107824805936332"
+},
+["Thursday"] : {
+	["Name"] : "thursday",
+	["Genre"] : "Lobby",
+	["Authors"] : {"killmiri", "nicopatty"},
+	["AlbumCoverId"] : "rbxassetid://18802471575"
+},
+["Simple Enough."] : {
+	["Name"] : "Simple Enough.",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://104173955156830"
+},
+["wait"] : {
+	["Name"] : "wait",
+	["Genre"] : "Lobby",
+	["Authors"] : "lavaa2109",
+	["AlbumCoverId"] : "rbxassetid://122181838883250"
+},
+["PWNEDHallowsMix"] : {
+	["Name"] : "PWNED (hallows mix)",
+	["Genre"] : "Hallows2024",
+	["Authors"] : {"maplazalea", "shaddinaround"},
+	["AlbumCoverId"] : "rbxassetid://103997827922228"
+},
+["Recurrence"] : {
+	["Name"] : "Recurrence",
+	["Genre"] : "Vault",
+	["Authors"] : "JJlev",
+	["AlbumCoverId"] : "rbxassetid://132356390705391"
+},
+["ignition"] : {
+	["Name"] : "ignition",
+	["Genre"] : "Vault",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://76967806187653"
+},
+["Above the wonders"] : {
+	["Name"] : "Above the wonders",
+	["Genre"] : "Lobby",
+	["Authors"] : "reverse_incident2",
+	["AlbumCoverId"] : "rbxassetid://117848911761806"
+},
+["Just a minute"] : {
+	["Name"] : "Just a minute",
+	["Genre"] : "Lobby",
+	["Authors"] : "impersonatum",
+	["AlbumCoverId"] : "rbxassetid://111774695866670"
+},
+["Investigation"] : {
+	["Name"] : "Investigation",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://126728646183966"
+},
+["TagBeat"] : {
+	["Name"] : "tag beat",
+	["Genre"] : "Lobby",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://134559972012196"
+},
+["Humbly Bumbly Night"] : {
+	["Name"] : "Humbly Bumbly Night",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://132441307028789"
+},
+["EPIK!!!"] : {
+	["Name"] : "EPIK!!!",
+	["Genre"] : "Round",
+	["Authors"] : "bukket",
+	["AlbumCoverId"] : "rbxassetid://75521693392395"
+},
+["phonkout"] : {
+	["Name"] : "phonk out",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://88500724940584"
+},
+["DialTrialV2"] : {
+	["Name"] : "Dial Trial",
+	["Genre"] : "Round",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://95838127516369"
+},
+["Cute"] : {
+	["Name"] : "Cute",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://91664346999813"
+},
+["Crown of the Sunset"] : {
+	["Name"] : "Crown of the Sunset",
+	["Genre"] : "Lobby",
+	["Authors"] : "JJlev",
+	["AlbumCoverId"] : "rbxassetid://122575937677866"
+},
+["Core Quagmix"] : {
+	["Name"] : "Core Quagmix",
+	["Genre"] : "Round",
+	["Authors"] : "Quagorto",
+	["AlbumCoverId"] : "rbxassetid://101691567434276"
+},
+["Cautious! (hazerred remix)"] : {
+	["Name"] : "Cautious! (hazerred remix)",
+	["Genre"] : "Round",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://71876351808857"
+},
+["tagemall41"] : {
+	["Name"] : "tag em all",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://140687333240323"
+},
+["Unpaused love"] : {
+	["Name"] : "Unpaused love",
+	["Genre"] : "Lobby",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://133125328720496"
+},
+["Boombox"] : {
+	["Name"] : "Boombox",
+	["Genre"] : "Lobby",
+	["Authors"] : "Quagorto",
+	["AlbumCoverId"] : "rbxassetid://89042705123014"
+},
+["B0MBExtended"] : {
+	["Name"] : "B0MB!!",
+	["Genre"] : "Round",
+	["Authors"] : "RedPlayzYT20",
+	["AlbumCoverId"] : "rbxassetid://18756523157"
+},
+["TheGreatCatastrophe"] : {
+	["Name"] : "the great catastrophe",
+	["Genre"] : "Hallows2024",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://139482492929063"
+},
+["LifeInAnElevator"] : {
+	["Name"] : "Life in an Elevator",
+	["Genre"] : "Lobby",
+	["Authors"] : "KPM Main",
+	["AlbumCoverId"] : "rbxassetid://18868734840"
+},
+["DialTrial"] : {
+	["Name"] : "Dial Trial",
+	["Genre"] : "Vault",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://115850344625106"
+},
+["farg yeah ghee"] : {
+	["Name"] : "farg yeah ghee",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "6TARLUVA",
+	["AlbumCoverId"] : "rbxassetid://86573311195066"
+},
+["CrownChaser"] : {
+	["Name"] : "Crown Chaser",
+	["Genre"] : "Vault",
+	["Authors"] : "Xmanta3",
+	["AlbumCoverId"] : "rbxassetid://112395881149636"
+},
+["MAXVELOCITY"] : {
+	["Name"] : "MAXVELOCITY",
+	["Genre"] : "Round",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://87000989469213"
+},
+["WATCH OUT"] : {
+	["Name"] : "WATCH OUT",
+	["Genre"] : "Vault",
+	["Authors"] : "VAVS",
+	["AlbumCoverId"] : "rbxassetid://127494161891502"
+},
+["PacketPower"] : {
+	["Name"] : "Packet Power",
+	["Genre"] : "Round",
+	["Authors"] : "Solaris",
+	["AlbumCoverId"] : "rbxassetid://15742951891"
+},
+["crashout (miku mix)"] : {
+	["Name"] : "crashout (miku mix)",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["crashout overdose"] : {
+	["Name"] : "crashout overdose",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "'Funki_, The Untitled Musicians",
+	["AlbumCoverId"] : "rbxassetid://115849716451720"
+},
+["King"] : {
+	["Name"] : "king",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Green",
+	["AlbumCoverId"] : "rbxassetid://130332944582262"
+},
+["OnBoard"] : {
+	["Name"] : "On Board",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://92976486671158"
+},
+["CRASHPARTY"] : {
+	["Name"] : "CRASHPARTY",
+	["Genre"] : "Round",
+	["Authors"] : "maplazalea",
+	["AlbumCoverId"] : "rbxassetid://84271450608596"
+},
+["Another Planet"] : {
+	["Name"] : "Another Planet",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://120376589804539"
+},
+["Dominator"] : {
+	["Name"] : "Dominator",
+	["Genre"] : "Round",
+	["Authors"] : {"FORSE54", "kupiofficial"},
+	["AlbumCoverId"] : "rbxassetid://92299888857899"
+},
+["Bloxiade41"] : {
+	["Name"] : "Bloxiade",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://76094541493890"
+},
+["Sweat_Time_41"] : {
+	["Name"] : "Sweat Time V4",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "FORSE54",
+	["AlbumCoverId"] : "rbxassetid://83175107875375"
+},
+["picnic"] : {
+	["Name"] : "picnic",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://113851067404841"
+},
+["Cautious"] : {
+	["Name"] : "Cautious",
+	["Genre"] : "Round",
+	["Authors"] : "FORSE54",
+	["AlbumCoverId"] : "rbxassetid://71122058685290"
+},
+["Projection41"] : {
+	["Name"] : "Projection",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "SpringyGN",
+	["AlbumCoverId"] : "rbxassetid://95484803908874"
+},
+["Love Forecaster"] : {
+	["Name"] : "Love Forecaster",
+	["Genre"] : "Lobby",
+	["Authors"] : "box",
+	["AlbumCoverId"] : "rbxassetid://139148024441870"
+},
+["speedy coil"] : {
+	["Name"] : "speedy coil",
+	["Genre"] : "Round",
+	["Authors"] : "KeihBuck",
+	["AlbumCoverId"] : "rbxassetid://107606113278116"
+},
+["Drum N' Bazz N' Bass"] : {
+	["Name"] : "Drum N' Bazz N' Bass",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://102496586708657"
+},
+["PWNEDGT"] : {
+	["Name"] : "PWNED",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://137169406095533"
+},
+["Subspace Subvert"] : {
+	["Name"] : "Subspace Subvert",
+	["Genre"] : "Round",
+	["Authors"] : "one80",
+	["AlbumCoverId"] : "rbxassetid://83953386000082"
+},
+["Mlem"] : {
+	["Name"] : "Mlem",
+	["Genre"] : "Round",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://71963777191884"
+},
+["crashout (happy mix)"] : {
+	["Name"] : "crashout (happy mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["crashout (doodle mix)"] : {
+	["Name"] : "crashout (doodle mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["BreakLoose"] : {
+	["Name"] : "Break Loose",
+	["Genre"] : "Round",
+	["Authors"] : "Albeit",
+	["AlbumCoverId"] : "rbxassetid://123577011355452"
+},
+["Midnight"] : {
+	["Name"] : "midnight",
+	["Genre"] : "Round",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://94718734202944"
+},
+["Selection"] : {
+	["Name"] : "Selection",
+	["Genre"] : "Lobby",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://89824472164798"
+},
+["Intro"] : {
+	["Name"] : "Intro",
+	["Genre"] : "Lobby",
+	["Authors"] : "Daniel Bautista",
+	["AlbumCoverId"] : "rbxassetid://16738454738"
+},
+["clock in april fools"] : {
+	["Name"] : "clock in",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "JJlev",
+	["AlbumCoverId"] : "rbxassetid://86573311195066"
+},
+["AprilFoolsNoon"] : {
+	["Name"] : "Noon",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://83025856953804"
+},
+["robloxjersey"] : {
+	["Name"] : "roblox jersey",
+	["Genre"] : "Lobby",
+	["Authors"] : "nicopatty",
+	["AlbumCoverId"] : "rbxassetid://102439783808016"
+},
+["crashout r&b master"] : {
+	["Name"] : "crashout r&b",
+	["Genre"] : "Round",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://106745151540510"
+},
+["toylandia"] : {
+	["Name"] : "t6ylandia",
+	["Genre"] : "Lobby",
+	["Authors"] : "vict6rrrr",
+	["AlbumCoverId"] : "rbxassetid://138408927399297"
+},
+["timebomb express yahhhhh"] : {
+	["Name"] : "timebomb express",
+	["Genre"] : "Vault",
+	["Authors"] : "Epik",
+	["AlbumCoverId"] : "rbxassetid://129749166211171"
+},
+["HorrorOg"] : {
+	["Name"] : "????",
+	["Genre"] : "Horror",
+	["Authors"] : "????",
+	["AlbumCoverId"] : "rbxassetid://113252732"
+},
+["caffeine rush"] : {
+	["Name"] : "caffeine rush",
+	["Genre"] : "Round",
+	["Authors"] : "box",
+	["AlbumCoverId"] : "rbxassetid://86707889030331"
+},
+["haus master"] : {
+	["Name"] : "haus",
+	["Genre"] : "Round",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://99237688991611"
+},
+["Nova"] : {
+	["Name"] : "Nova",
+	["Genre"] : "Lobby",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://93309564969087"
+},
+["clock in"] : {
+	["Name"] : "clock in",
+	["Genre"] : "Lobby",
+	["Authors"] : "JJlev",
+	["AlbumCoverId"] : "rbxassetid://86573311195066"
+},
+["PICK A CARD"] : {
+	["Name"] : "PICK A CARD",
+	["Genre"] : "Lobby",
+	["Authors"] : "VAVS",
+	["AlbumCoverId"] : "rbxassetid://71664437394996"
+},
+["PlaygroundOfTheStars"] : {
+	["Name"] : "Playground of the Stars",
+	["Genre"] : "Lobby",
+	["Authors"] : "Richard Walter",
+	["AlbumCoverId"] : "rbxassetid://15742242901"
+},
+["OG"] : {
+	["Name"] : "OG",
+	["Genre"] : "Vault",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://74015625341265"
+},
+["After Hours"] : {
+	["Name"] : "After Hours",
+	["Genre"] : "Lobby",
+	["Authors"] : {"Conveild", "Quagorto"},
+	["AlbumCoverId"] : "rbxassetid://71068485436792"
+},
+["Lunar Transfuge"] : {
+	["Name"] : "Lunar Transfuge",
+	["Genre"] : "Round",
+	["Authors"] : "Albeit",
+	["AlbumCoverId"] : "rbxassetid://111287780367491"
+},
+["Tag Shift"] : {
+	["Name"] : "Tag Shift",
+	["Genre"] : "Vault",
+	["Authors"] : "MysticNuggets",
+	["AlbumCoverId"] : "rbxassetid://87752736623855"
+},
+["Keep it simple"] : {
+	["Name"] : "Keep it simple",
+	["Genre"] : "Lobby",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://83946241213192"
+},
+["crashout yokai mix"] : {
+	["Name"] : "crashout yokai mix",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "simlirity",
+	["AlbumCoverId"] : "rbxassetid://86573311195066"
+},
+["runners theme"] : {
+	["Name"] : "runners theme",
+	["Genre"] : "Lobby",
+	["Authors"] : "Esbee",
+	["AlbumCoverId"] : "rbxassetid://128006967338289"
+},
+["Bloxiade"] : {
+	["Name"] : "Bloxiade",
+	["Genre"] : "Round",
+	["Authors"] : "O9o",
+	["AlbumCoverId"] : "rbxassetid://76094541493890"
+},
+["training day rmx"] : {
+	["Name"] : "Training Day (UTG Remix)",
+	["Genre"] : "Lobby",
+	["Authors"] : "maplazalea",
+	["AlbumCoverId"] : "rbxassetid://92667498467934"
+},
+["tagemall"] : {
+	["Name"] : "tag em all",
+	["Genre"] : "Round",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://140687333240323"
+},
+["noob_alert_utg_mix"] : {
+	["Name"] : "noob alert utg mix",
+	["Genre"] : "Vault",
+	["Authors"] : "shaddinaround",
+	["AlbumCoverId"] : "rbxassetid://96361275498074"
+},
+["alert"] : {
+	["Name"] : "alert",
+	["Genre"] : "Lobby",
+	["Authors"] : "kupiofficial",
+	["AlbumCoverId"] : "rbxassetid://119430515010462"
+},
+["telecaster"] : {
+	["Name"] : "telecaster",
+	["Genre"] : "Round",
+	["Authors"] : {"hazerred", "palm"},
+	["AlbumCoverId"] : "rbxassetid://74656728206905"
+},
+["MuleBloxblaster"] : {
+	["Name"] : "M.U.L.E. (Bloxblaster Remix)",
+	["Genre"] : "Round",
+	["Authors"] : "maplazalea",
+	["AlbumCoverId"] : "rbxassetid://95783381800797"
+},
+["Slide"] : {
+	["Name"] : "slide",
+	["Genre"] : "Round",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://94718734202944"
+},
+["crashout (Running Mix)"] : {
+	["Name"] : "crashout (Running Mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["UnfinishedBusiness"] : {
+	["Name"] : "Unfinished Business",
+	["Genre"] : "Hallows2024",
+	["Authors"] : "mateotrox",
+	["AlbumCoverId"] : "rbxassetid://96916695342837"
+},
+["Bossa"] : {
+	["Name"] : "bossa",
+	["Genre"] : "Round",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://94718734202944"
+},
+["GoLong"] : {
+	["Name"] : "go long",
+	["Genre"] : "Round",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://129329324236067"
+},
+["Bubbles"] : {
+	["Name"] : "bubbles",
+	["Genre"] : "Lobby",
+	["Authors"] : "hazerred",
+	["AlbumCoverId"] : "rbxassetid://139269218476222"
+},
+["Survival"] : {
+	["Name"] : "Survival",
+	["Genre"] : "Vault",
+	["Authors"] : "FORSE54",
+	["AlbumCoverId"] : "rbxassetid://70401847140178"
+},
+["Lobombtomy"] : {
+	["Name"] : "B0MB!!",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "RedPlayzYT20",
+	["AlbumCoverId"] : "rbxassetid://131259117354312"
+},
+["SaturdaySerenade"] : {
+	["Name"] : "Saturday Swinging Serenade",
+	["Genre"] : "Lobby",
+	["Authors"] : {"ntcynn", "Gemtin"},
+	["AlbumCoverId"] : "rbxassetid://17590208521"
+},
+["Hazard"] : {
+	["Name"] : "Hazard",
+	["Genre"] : "Infected",
+	["Authors"] : {"FORSE54", "kupiofficial"},
+	["AlbumCoverId"] : "rbxassetid://121148677955516"
+},
+["HumbleBumble"] : {
+	["Name"] : "Humble Bumble",
+	["Genre"] : "Lobby",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://72828812368944"
+},
+["SmoothNylons"] : {
+	["Name"] : "Smooth Nylons",
+	["Genre"] : "Lobby",
+	["Authors"] : "Kenny Salmon",
+	["AlbumCoverId"] : "rbxassetid://15742296019"
+},
+["Final Seconds"] : {
+	["Name"] : "Final Seconds",
+	["Genre"] : "Round",
+	["Authors"] : "Quagorto",
+	["AlbumCoverId"] : "rbxassetid://135130137941475"
+},
+["Contaminate"] : {
+	["Name"] : "Contaminate",
+	["Genre"] : "Vault",
+	["Authors"] : "silhouette_mann",
+	["AlbumCoverId"] : "rbxassetid://72100028520023"
+},
+["YouWinAgain"] : {
+	["Name"] : "you win again",
+	["Genre"] : "Lobby",
+	["Authors"] : "Vehiculer sSpamton",
+	["AlbumCoverId"] : "rbxassetid://106083726512993"
+},
+["crashout (Whats Mix)"] : {
+	["Name"] : "crashout (Whats Mix)",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
+},
+["Askewed"] : {
+	["Name"] : "Askewed",
+	["Genre"] : "Round",
+	["Authors"] : "ButIneedkarma",
+	["AlbumCoverId"] : "rbxassetid://77346734352129"
+},
+["RelaxationChill"] : {
+	["Name"] : "Chill",
+	["Genre"] : "Lobby",
+	["Authors"] : "FORSE54",
+	["AlbumCoverId"] : "rbxassetid://131107407574432"
+},
+["iridescent"] : {
+	["Name"] : "iridescent",
+	["Genre"] : "Round",
+	["Authors"] : "one80",
+	["AlbumCoverId"] : "rbxassetid://90930428033316"
+},
+["Horde"] : {
+	["Name"] : "horde",
+	["Genre"] : "Infected",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://93951782693737"
+},
+["IMPENDING DOOM"] : {
+	["Name"] : "IMPENDING_DOOM",
+	["Genre"] : "Infected",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://123278797417758"
+},
+["RelaxedScene"] : {
+	["Name"] : "Relaxed Scene",
+	["Genre"] : "LobbyAprilFools",
+	["Authors"] : "James Clarke",
+	["AlbumCoverId"] : "rbxassetid://137135890719180"
+},
+["80sIntermission"] : {
+	["Name"] : "80s intermission",
+	["Genre"] : "Lobby",
+	["Authors"] : "chuuisinsane",
+	["AlbumCoverId"] : "rbxassetid://109699171485507"
+},
+["Bloxy Blox (Remix)"] : {
+	["Name"] : "Bloxy Blox (Remix)",
+	["Genre"] : "Round",
+	["Authors"] : "glunic",
+	["AlbumCoverId"] : "rbxassetid://107239306516239"
+},
+["Mellifluous"] : {
+	["Name"] : "Mellifluous",
+	["Genre"] : "Lobby",
+	["Authors"] : "JJLev",
+	["AlbumCoverId"] : "rbxassetid://129116417161962"
+},
+["crashout (teto mix)"] : {
+	["Name"] : "crashout (teto mix)",
+	["Genre"] : "RoundAprilFools",
+	["Authors"] : "Funki_",
+	["AlbumCoverId"] : "rbxassetid://91730136354683"
 }
-}
+}  -  Edit
